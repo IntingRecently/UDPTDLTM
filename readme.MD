@@ -1,6 +1,6 @@
 # Spotify Analysis Project
 
-## Group 8
+## Group 8 - ĐỒ ÁN ỨNG DỤNG PHÂN TÍCH DỮ LIỆU THÔNG MINH
 
 ### Project Overview
 This project involves analyzing Spotify data to gain insights into music trends, listener preferences, and other relevant metrics. The analysis will help in understanding the dynamics of the music industry and the behavior of Spotify users.
