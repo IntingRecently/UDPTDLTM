@@ -1,205 +1,252 @@
-artist_id,artist_uri,artist_name,artist_genres,artist_popularity,artist_follower,artist_image_url,timestamp
-3eVa5w3URK5duf6eyVDbu9,spotify:artist:3eVa5w3URK5duf6eyVDbu9,ROSÉ,['k-pop'],83,7651191,https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf,2024-11-01
-0du5cEVh5yTK9QJze8zA0C,spotify:artist:0du5cEVh5yTK9QJze8zA0C,Bruno Mars,"['dance pop', 'pop']",95,61284274,https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd,2024-11-01
-1HY2Jd0NmPuamShAr6KMms,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Lady Gaga,"['art pop', 'dance pop', 'pop']",92,32437331,https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79,2024-11-01
-47z98pKd71yIbgXwe9LPVC,spotify:artist:47z98pKd71yIbgXwe9LPVC,Bernadya,[],83,2067579,https://i.scdn.co/image/ab6761610000e5eb6d1dbc1a4a286b1ee9d40163,2024-11-01
-5Plk4JdCzMxhAHSRTEsxJp,spotify:artist:5Plk4JdCzMxhAHSRTEsxJp,Ernie Zakri,['malaysian pop'],64,177522,https://i.scdn.co/image/ab6761610000e5ebd4e158ec0916e15687ca82e0,2024-11-01
-1lg1jqQMMJQQFFMnkxn0zV,spotify:artist:1lg1jqQMMJQQFFMnkxn0zV,Ade Govinda,[],63,28284,https://i.scdn.co/image/ab6761610000e5ebadd8117c837c1235b2ae2f02,2024-11-01
-0f6TyESD8E1mD2oLJ4TGv1,spotify:artist:0f6TyESD8E1mD2oLJ4TGv1,For Revenge,"['bandung indie', 'indonesian emo', 'indonesian post-hardcore']",73,1146770,https://i.scdn.co/image/ab6761610000e5ebe8617ec4d897e68ec5c2f5d3,2024-11-01
-6YPfs6tdZXvnlzgZNU3SYT,spotify:artist:6YPfs6tdZXvnlzgZNU3SYT,Dudy Oris,['indonesian pop'],68,128795,https://i.scdn.co/image/ab6761610000e5ebecfcf46a0b101c42866979bf,2024-11-01
-7Gy1PxqrgsiqWF6JNYPHeB,spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB,.Feast,['indonesian indie'],69,780982,https://i.scdn.co/image/ab6761610000e5eb16f030ca05d4d917cdc2eb5e,2024-11-01
-6X28gNASnalAWseUA8uI4X,spotify:artist:6X28gNASnalAWseUA8uI4X,Adrian Khalif,"['indonesian hip hop', 'indonesian pop']",68,61396,https://i.scdn.co/image/ab6761610000e5ebaacec2a8c9876f5b3e964ab6,2024-11-01
-3tMTXQyRrPmMyHv5SoC0TV,spotify:artist:3tMTXQyRrPmMyHv5SoC0TV,Juicy Luicy,['indonesian pop'],80,1504203,https://i.scdn.co/image/ab6761610000e5eb8a7372e657292fbcbde93caf,2024-11-01
-16B3ICSQCPu4C6L5TEHXQe,spotify:artist:16B3ICSQCPu4C6L5TEHXQe,Rio Clappy,[],65,65643,https://i.scdn.co/image/ab6761610000e5ebe36a615b3a5dd61afaa3386d,2024-11-01
-66NmU5epI0ONGmdCRbLpmW,spotify:artist:66NmU5epI0ONGmdCRbLpmW,Feby Putri,['indonesian pop'],71,3685108,https://i.scdn.co/image/ab6761610000e5eb4f758d9f221784a05343389e,2024-11-01
-06QVnTCdjs4jPKO0487EGV,spotify:artist:06QVnTCdjs4jPKO0487EGV,Fiersa Besari,"['bandung indie', 'indonesian folk pop', 'indonesian indie', 'indonesian pop', 'indonesian pop punk']",70,5241203,https://i.scdn.co/image/ab6761610000e5ebaf659f61f9c27fb44fcd153f,2024-11-01
-6qqNVTkY8uBg9cP3Jd7DAH,spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,"['art pop', 'pop']",96,101473964,https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da,2024-11-01
-1v1khTmozNfxB2ET1Ep288,spotify:artist:1v1khTmozNfxB2ET1Ep288,Last Child,"['indonesian pop punk', 'indonesian rock']",75,9435350,https://i.scdn.co/image/ab6761610000e5eb3e2192453d16aa93116434b8,2024-11-01
-6Sv2jkzH9sWQjwghW5ArMG,spotify:artist:6Sv2jkzH9sWQjwghW5ArMG,Lyodra,['indonesian pop'],74,5524089,https://i.scdn.co/image/ab6761610000e5ebf089d00e486c86a63e505903,2024-11-01
-3wOsYKZM0zcKNasi3I7fP4,spotify:artist:3wOsYKZM0zcKNasi3I7fP4,Mahalini,['indonesian pop'],77,14379297,https://i.scdn.co/image/ab6761610000e5eb1264a169b9cdf4acaeab5e8f,2024-11-01
-1NjxFrpEGZTV2Ny0OJxeWu,spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu,Sal Priadi,"['indonesian pop', 'malang indie']",71,905934,https://i.scdn.co/image/ab6761610000e5ebe0b0a8ea1627baec927037c3,2024-11-01
-51kyrUsAVqUBcoDEMFkX12,spotify:artist:51kyrUsAVqUBcoDEMFkX12,Hindia,['indonesian pop'],77,4458636,https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92,2024-11-01
-20zafXaLhm5IcXnSU93rNn,spotify:artist:20zafXaLhm5IcXnSU93rNn,Nadin Amizah,['indonesian pop'],74,6458175,https://i.scdn.co/image/ab6761610000e5eb1d143802cf034044739dbcdc,2024-11-01
-53tuXn4uXfDqZYhAFMxZdt,spotify:artist:53tuXn4uXfDqZYhAFMxZdt,Nyoman Paul,[],64,79872,https://i.scdn.co/image/ab6761610000e5eb3e9c99f3905f734a5943b32a,2024-11-01
-4AK6F7OLvEQ5QYCBNiQWHq,spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",91,37268834,https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8,2024-11-01
-1WX2v0BiEW19Vw7xmznLdZ,spotify:artist:1WX2v0BiEW19Vw7xmznLdZ,Vierra,['indonesian pop'],69,1565176,https://i.scdn.co/image/ab6761610000e5ebce05aec92bc5b3e81205ff73,2024-11-01
-327ipGIr9bD3MkLb2eucqC,spotify:artist:327ipGIr9bD3MkLb2eucqC,Suara Kayu,['indonesian pop'],63,223649,https://i.scdn.co/image/ab6761610000e5ebd46883d6e4f535b2a917d436,2024-11-01
-4AhHkaGz7W2bKKJK90IaV2,spotify:artist:4AhHkaGz7W2bKKJK90IaV2,Batas Senja,['indonesian folk'],63,279535,https://i.scdn.co/image/ab6761610000e5ebabf22cccfa6585c7d9537555,2024-11-01
-1JvbNeV9zG9Sew1JyaWsyx,spotify:artist:1JvbNeV9zG9Sew1JyaWsyx,Anggi Marito,['indonesian pop'],64,1257429,https://i.scdn.co/image/ab6761610000e5ebed4272c85f1a3442ee4a52aa,2024-11-01
-6UgERnTHmjk3qXM9x5vzyO,spotify:artist:6UgERnTHmjk3qXM9x5vzyO,Nadhif Basalamah,['indonesian r&b'],65,1134304,https://i.scdn.co/image/ab6761610000e5eb0893859c6541b0a6bc9aeec3,2024-11-01
-1ZT1OfVAO3kpOEHVejBxV8,spotify:artist:1ZT1OfVAO3kpOEHVejBxV8,Meiska,['indonesian pop'],64,421879,https://i.scdn.co/image/ab6761610000e5ebe213407a0d0910cdcadf6495,2024-11-01
-0kw7tMniMnrp9Pcr7vgDAm,spotify:artist:0kw7tMniMnrp9Pcr7vgDAm,Stereo Wall,['indonesian pop punk'],62,83209,https://i.scdn.co/image/ab6761610000e5eb29fc1e7c1efc3d371241763f,2024-11-01
-4bAgr9zaF0bpzVGHdHuf0f,spotify:artist:4bAgr9zaF0bpzVGHdHuf0f,Virgoun,"['indonesian pop', 'malaysian pop']",69,11044411,https://i.scdn.co/image/ab6761610000e5eba99ec2b3bd22a84739aac218,2024-11-01
-611ajYp7fMbkU5CYF08tje,spotify:artist:611ajYp7fMbkU5CYF08tje,Audy,['indonesian pop'],63,421472,https://i.scdn.co/image/ab6761610000e5eb57e03ee8e4a5acd8415f8cd3,2024-11-01
-5vTG3EyFrsARtIGDWZNRzu,spotify:artist:5vTG3EyFrsARtIGDWZNRzu,Hal,['indonesian folk'],66,436334,https://i.scdn.co/image/ab6761610000e5eb8bb201d0f1db30219c4ab3ee,2024-11-01
-4sEWznAKWWNcicTuLxzb6d,spotify:artist:4sEWznAKWWNcicTuLxzb6d,Nidji,"['indonesian pop', 'indonesian pop rock']",69,1728410,https://i.scdn.co/image/ab6761610000e5ebcac2f83d8a2eac8a036d0efe,2024-11-01
-2iDVt6mFbtbDEZG5ax0dTi,spotify:artist:2iDVt6mFbtbDEZG5ax0dTi,Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76,16434718,https://i.scdn.co/image/ab6761610000e5eb53462891ab7799f2934b568e,2024-11-01
-5L1lO4eRHmJ7a0Q6csE5cT,spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT,LISA,['k-pop'],84,9367667,https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb,2024-11-01
-6RoZip1Hn7ahR6MjzBKKLK,spotify:artist:6RoZip1Hn7ahR6MjzBKKLK,Mawar de Jongh,['indonesian pop'],63,838794,https://i.scdn.co/image/ab6761610000e5eb075943044f6d9c953eb0c70b,2024-11-01
-0kPb52ySN2k9P6wEZPTUzm,spotify:artist:0kPb52ySN2k9P6wEZPTUzm,Tiara Andini,['indonesian pop'],74,7875817,https://i.scdn.co/image/ab6761610000e5eb279ea1ce2bcd38b92b66fa0c,2024-11-01
-3DHOtJqv0Bw65ENlK4FiSF,spotify:artist:3DHOtJqv0Bw65ENlK4FiSF,Yovie & Nuno,"['indonesian pop', 'indonesian pop rock']",70,1812909,https://i.scdn.co/image/ab6761610000e5ebd6da9160b31ec1bad6fc56ad,2024-11-01
-6FTLayBxjkQeanFdUusk1I,spotify:artist:6FTLayBxjkQeanFdUusk1I,Fabio Asher,['indonesian pop'],68,1376041,https://i.scdn.co/image/ab6761610000e5eb846845655cdc9e63b75103f0,2024-11-01
-5LcNPa8f8bRmZqELgoRFkN,spotify:artist:5LcNPa8f8bRmZqELgoRFkN,Raim Laode,['indonesian pop'],62,966817,https://i.scdn.co/image/ab6761610000e5ebc97ccd38c2bfa905e32cad0a,2024-11-01
-3uSnvyMAFJTm7XkZJFo0xP,spotify:artist:3uSnvyMAFJTm7XkZJFo0xP,Insomniacks,['malaysian pop'],59,348179,https://i.scdn.co/image/ab6761610000e5eb33cb646a442cc31983eddf99,2024-11-01
-250b0Wlc5Vk0CoUsaCY84M,spotify:artist:250b0Wlc5Vk0CoUsaCY84M,JENNIE,['k-pop'],83,7646182,https://i.scdn.co/image/ab6761610000e5ebcab652097be01bf194cdf11d,2024-11-01
-74KM79TiuVKeVCqs8QtB0B,spotify:artist:74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,['pop'],95,14296840,https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae,2024-11-01
-70NcAr4ZtA3FAqU16iQZSb,spotify:artist:70NcAr4ZtA3FAqU16iQZSb,Dhruv,['nyc pop'],70,703326,https://i.scdn.co/image/ab6761610000e5eb32f3f1833279444356c71e4d,2024-11-01
-1oSPZhvZMIrWW5I41kPkkY,spotify:artist:1oSPZhvZMIrWW5I41kPkkY,Jimin,['k-pop'],88,9762264,https://i.scdn.co/image/ab6761610000e5ebcb08296cca5a2d197caabb79,2024-11-01
-66CXWjxzNUsdJxJ2JdwvnR,spotify:artist:66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,['pop'],92,100732852,https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0,2024-11-01
-3c0gDdb9lhnHGFtP4prQpn,spotify:artist:3c0gDdb9lhnHGFtP4prQpn,KATSEYE,['5th gen k-pop'],75,617753,https://i.scdn.co/image/ab6761610000e5eb031e8e2a9c4893810a02f863,2024-11-01
-1Xyo4u8uXC1ZmMpatF05PJ,spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,93606651,https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae,2024-11-01
-1pBLC0qVRTB5zVMuteQ9jJ,spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ,Lily-Rose Depp,['pop'],77,205726,https://i.scdn.co/image/ab6761610000e5ebc2fb4b8e035fbdad27da865f,2024-11-01
-7tYKF4w9nC0nq9CsPZTHyP,spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,SZA,"['pop', 'r&b', 'rap']",90,23980903,https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65,2024-11-01
-6YVMFz59CuY7ngCxTxjpxE,spotify:artist:6YVMFz59CuY7ngCxTxjpxE,aespa,['k-pop girl group'],83,6868780,https://i.scdn.co/image/ab6761610000e5ebf7a1090ad3a35a34fc0ecb57,2024-11-01
-7GlBOeep6PqTfFi59PTUUN,spotify:artist:7GlBOeep6PqTfFi59PTUUN,Chappell Roan,['indie pop'],89,3696729,https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee,2024-11-01
-0zo8fkOQyrawuBfIhy99jb,spotify:artist:0zo8fkOQyrawuBfIhy99jb,Hyper Act,['malaysian pop'],53,196149,https://i.scdn.co/image/ab67616d0000b273863a175ed906280e46605142,2024-11-01
-7hr9W3IjXcm3UlLY7guLk5,spotify:artist:7hr9W3IjXcm3UlLY7guLk5,Henry Moodie,['singer-songwriter pop'],69,631076,https://i.scdn.co/image/ab6761610000e5eb0b9e89b08baa10172abe380b,2024-11-01
-4fVYwG8RsbJsREFFniszhf,spotify:artist:4fVYwG8RsbJsREFFniszhf,Noh Salleh,['malaysian indie'],54,126348,https://i.scdn.co/image/ab6761610000e5eb25c47b238f28bd0120914451,2024-11-01
-7Ln80lUS6He07XvHI8qqHH,spotify:artist:7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,27114820,https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f,2024-11-01
-4gvjmrtzydbMpyJaXUtwvP,spotify:artist:4gvjmrtzydbMpyJaXUtwvP,Addison Rae,['social media pop'],76,449155,https://i.scdn.co/image/ab6761610000e5ebe7b11d095987ac3033d9c944,2024-11-01
-3sMsWkApnc6yPyMUsNHQlb,spotify:artist:3sMsWkApnc6yPyMUsNHQlb,Kaleb J,['indonesian pop'],64,697067,https://i.scdn.co/image/ab6761610000e5eb634d2f38605036ce3c913b8b,2024-11-01
-6VuMaDnrHyPL1p4EHjYLi7,spotify:artist:6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,"['pop', 'viral pop']",82,23417071,https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d,2024-11-01
-0C8ZW7ezQVs4URX5aX7Kqx,spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,"['pop', 'post-teen pop']",83,51050607,https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a,2024-11-01
-2WzaAvm2bBCf4pEhyuDgCY,spotify:artist:2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",74,3781951,https://i.scdn.co/image/ab6761610000e5eb1da7ba1c178ab9f68d065197,2024-11-01
-5p9HO3XC5P3BLxJs5Mtrhm,spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm,Djo,"['pov: indie', 'psychedelic pop']",76,1589752,https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69,2024-11-01
-027TpXKGwdXP7iwbjUSpV8,spotify:artist:027TpXKGwdXP7iwbjUSpV8,The Walters,"['chicago indie', 'pov: indie']",73,820419,https://i.scdn.co/image/ab6761610000e5eb6c4366f40ea49c1318707f97,2024-11-01
-699OTQXzgjhIYAHMy9RyPD,spotify:artist:699OTQXzgjhIYAHMy9RyPD,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",90,12101736,https://i.scdn.co/image/ab6761610000e5ebb3d8cd43a716a031fe7e1ab6,2024-11-01
-2uYWxilOVlUdk4oV9DvwqK,spotify:artist:2uYWxilOVlUdk4oV9DvwqK,Mitski,"['brooklyn indie', 'pov: indie']",84,9183154,https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13,2024-11-01
-06HL4z0CvFAxyc27GXpf02,spotify:artist:06HL4z0CvFAxyc27GXpf02,Taylor Swift,['pop'],100,124880434,https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676,2024-11-01
-36cgvBn0aadzOijnjjwqMN,spotify:artist:36cgvBn0aadzOijnjjwqMN,ILLIT,['5th gen k-pop'],75,1636145,https://i.scdn.co/image/ab6761610000e5eb32863b8dca4574c09e4b9295,2024-11-01
-1iCnM8foFssWlPRLfAbIwo,spotify:artist:1iCnM8foFssWlPRLfAbIwo,Gigi Perez,['bedroom pop'],80,428786,https://i.scdn.co/image/ab6761610000e5ebe5ff5495fe99ee0fa0236087,2024-11-01
-1chOgh5tgwfiyJ2zhUHwBj,spotify:artist:1chOgh5tgwfiyJ2zhUHwBj,Dionela,['opm'],73,766291,https://i.scdn.co/image/ab6761610000e5eb50069ac992d74c5610ecb9cc,2024-11-01
-3z0IVhtuFvt9VYUZGT98PU,spotify:artist:3z0IVhtuFvt9VYUZGT98PU,Jay R,['opm'],68,240546,https://i.scdn.co/image/ab6761610000e5ebb96d835bab47cdf77a652a6e,2024-11-01
-6AvnL2gWjNYs1hRVJx4huK,spotify:artist:6AvnL2gWjNYs1hRVJx4huK,Maki,['opm'],72,779751,https://i.scdn.co/image/ab6761610000e5eb41e8ef2382d2c51b87013187,2024-11-01
-6zO1dZ40fTZ5hY9NnnRJSk,spotify:artist:6zO1dZ40fTZ5hY9NnnRJSk,yung kai,[],64,112355,https://i.scdn.co/image/ab6761610000e5ebd9b92b78e9ce3e20c498c732,2024-11-01
-6rTxLeff3t3rivZ3rabRpw,spotify:artist:6rTxLeff3t3rivZ3rabRpw,Robledo Timido,[],64,31350,https://i.scdn.co/image/ab6761610000e5eb7dc8358b1a47d51dbe2914f9,2024-11-01
-7LvDTuFCBv08xm6u1pOMK0,spotify:artist:7LvDTuFCBv08xm6u1pOMK0,TJ Monterde,"['cdo indie', 'opm', 'pinoy singer-songwriter']",73,3156841,https://i.scdn.co/image/ab6761610000e5eb262b69fed44e0ee1219d92d5,2024-11-01
-1mcqfNCReSFxun2vIWvC28,spotify:artist:1mcqfNCReSFxun2vIWvC28,KZ Tandingan,['opm'],65,1194810,https://i.scdn.co/image/ab6761610000e5eb4da6fa70b879e62a1e5c50cc,2024-11-01
-3wbCeEPAW6po7J46netxMT,spotify:artist:3wbCeEPAW6po7J46netxMT,Up Dharma Down,['opm'],67,1312078,https://i.scdn.co/image/ab6761610000e5eb0d9af87a78a52846b4706b28,2024-11-01
-61nn6nOoLWjVC1ER2qFAvN,spotify:artist:61nn6nOoLWjVC1ER2qFAvN,Cup of Joe,"['opm', 'pinoy city pop']",72,1318875,https://i.scdn.co/image/ab6761610000e5ebd3eacbbd91f1be9cfb910f93,2024-11-01
-09Xydf4dlkr29dH99DmsvQ,spotify:artist:09Xydf4dlkr29dH99DmsvQ,Janine,"['opm', 'pinoy singer-songwriter']",65,533689,https://i.scdn.co/image/ab6761610000e5eb624bad868bb6710a5020cb32,2024-11-01
-7uDdl5V5AETSFY7K3muu22,spotify:artist:7uDdl5V5AETSFY7K3muu22,Arthur Nery,"['cdo indie', 'opm', 'p-pop']",73,5918358,https://i.scdn.co/image/ab6761610000e5eb41ec19055abd29650aea6a55,2024-11-01
-0WleeEe3UurwlNbDGhb5Yz,spotify:artist:0WleeEe3UurwlNbDGhb5Yz,ALLMO$T,"['opm', 'pinoy hip hop', 'pinoy r&b', 'tagalog rap']",62,833843,https://i.scdn.co/image/ab6761610000e5eb68483d34cba192ef2827b0ca,2024-11-01
-1DlYnIiliftt6R21Y5NOW2,spotify:artist:1DlYnIiliftt6R21Y5NOW2,Adie,['opm'],69,3347995,https://i.scdn.co/image/ab6761610000e5ebf4310260df78494ba2b6d1a3,2024-11-01
-4qPhnQfRgdgcZEdXgENOnr,spotify:artist:4qPhnQfRgdgcZEdXgENOnr,Janine Berdin,['opm'],61,110752,https://i.scdn.co/image/ab6761610000e5eb8c3f8649ff3aebf3f8d18854,2024-11-01
-20wkVLutqVOYrc0kxFs7rA,spotify:artist:20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,['canadian contemporary r&b'],86,7028394,https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8,2024-11-01
-3Y7RZ31TRPVadSFVy1o8os,spotify:artist:3Y7RZ31TRPVadSFVy1o8os,H.E.R.,"['r&b', 'rap']",77,7934762,https://i.scdn.co/image/ab6761610000e5eb417db49cde3ed1c5a65e3514,2024-11-01
-3AQRLZ9PuTAozP28Skbq8V,spotify:artist:3AQRLZ9PuTAozP28Skbq8V,The Script,"['celtic rock', 'pop']",78,8250211,https://i.scdn.co/image/ab6761610000e5eb4a0b21cd87d8a8752fd32e94,2024-11-01
-5GVk1KCKa1tdHRev4bMw7V,spotify:artist:5GVk1KCKa1tdHRev4bMw7V,NOBITA,['opm'],62,1950589,https://i.scdn.co/image/ab6761610000e5ebffc2e05704ed9a281f1a1d84,2024-11-01
-3PDFGpPl4ienSn5Vwisfrh,spotify:artist:3PDFGpPl4ienSn5Vwisfrh,Flow G,"['opm', 'pinoy hip hop', 'pinoy r&b', 'tagalog rap']",72,2946376,https://i.scdn.co/image/ab6761610000e5ebc3509b8472d6f4141b96fff9,2024-11-01
-4zpGxqF6oI1h3f6Md2v42T,spotify:artist:4zpGxqF6oI1h3f6Md2v42T,Hev Abi,[],76,3319567,https://i.scdn.co/image/ab6761610000e5eb7542a2e21a82c4081b647d35,2024-11-01
-2WzWSpOB41g3gb78Raj6RK,spotify:artist:2WzWSpOB41g3gb78Raj6RK,gins&melodies,"['pinoy hip hop', 'tagalog rap']",64,338100,https://i.scdn.co/image/ab6761610000e5eb6dbbc3b51629ebe0db4e8527,2024-11-01
-1hMAGfvamVXuSWBFQRFMeq,spotify:artist:1hMAGfvamVXuSWBFQRFMeq,Over October,"['opm', 'pinoy indie', 'pinoy rock']",62,278732,https://i.scdn.co/image/ab6761610000e5eba43e2c2793604a3e541221fb,2024-11-01
-1U1el3k54VvEUzo3ybLPlM,spotify:artist:1U1el3k54VvEUzo3ybLPlM,Kali Uchis,['colombian pop'],86,8022629,https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68,2024-11-01
-3C1ER0cuXc8dLtaI8RvLI6,spotify:artist:3C1ER0cuXc8dLtaI8RvLI6,Eliza Maturan,['pinoy singer-songwriter'],61,39407,https://i.scdn.co/image/ab6761610000e5eb14045128c2a29ba074b03bf3,2024-11-01
-24fEOzlKhgSNLIcy9NdmwH,spotify:artist:24fEOzlKhgSNLIcy9NdmwH,James Reid,"['deep neofolk', 'opm', 'pinoy r&b']",62,390622,https://i.scdn.co/image/ab6761610000e5eb8b73f48710e2d48219d110df,2024-11-01
-1EUmQM6xgUQLUkJVcvSdey,spotify:artist:1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,['opm'],65,1995509,https://i.scdn.co/image/ab6761610000e5eb719663793c37681fa3c21628,2024-11-01
-0DpLoyGVbhOHNR3ht2oO9y,spotify:artist:0DpLoyGVbhOHNR3ht2oO9y,Calein,"['opm', 'pinoy city pop']",60,550073,https://i.scdn.co/image/ab6761610000e5ebb169229f8254ce1389273cf9,2024-11-01
-4LT250S0fAe4cYqPbRk56m,spotify:artist:4LT250S0fAe4cYqPbRk56m,Cean Jr.,"['opm', 'pinoy hip hop', 'pinoy r&b']",59,139493,https://i.scdn.co/image/ab6761610000e5eba6d27e3ccd0bbda0f7d01f74,2024-11-01
-7dFzqx2qyelGPiBKmdSEOT,spotify:artist:7dFzqx2qyelGPiBKmdSEOT,Rob Deniel,"['opm', 'p-pop', 'pinoy singer-songwriter']",65,838666,https://i.scdn.co/image/ab6761610000e5ebd4bf3dac171f6b1105cb41e5,2024-11-01
-4tuJ0bMpJh08umKkEXKUI5,spotify:artist:4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,['alt z'],88,2872964,https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920,2024-11-01
-5vV3bFXnN6D6N3Nj4xRvaV,spotify:artist:5vV3bFXnN6D6N3Nj4xRvaV,Jin,['k-pop'],80,8389500,https://i.scdn.co/image/ab6761610000e5ebca4f165e62fbf5ab5a3750ba,2024-11-01
-3pc0bOVB5whxmD50W79wwO,spotify:artist:3pc0bOVB5whxmD50W79wwO,keshi,['chill r&b'],79,3770208,https://i.scdn.co/image/ab6761610000e5ebe6f96cf550aeaf3a51d6a0bb,2024-11-01
-3Y7gOnKYWfQlEdgXag0Z6W,spotify:artist:3Y7gOnKYWfQlEdgXag0Z6W,Regina Song,[],61,70084,https://i.scdn.co/image/ab6761610000e5ebfc71aaf9720b4fde94afdc92,2024-11-01
-4V8LLVI7PbaPR0K2TGSxFF,spotify:artist:4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator","['hip hop', 'rap']",93,17298382,https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52,2024-11-01
-2FXC3k01G6Gw61bmprjgqS,spotify:artist:2FXC3k01G6Gw61bmprjgqS,Hozier,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",86,7991387,https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a,2024-11-01
-6HaGTQPmzraVmaVxvz6EUc,spotify:artist:6HaGTQPmzraVmaVxvz6EUc,Jung Kook,['k-pop'],87,16296911,https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960,2024-11-01
-3MdXrJWsbVzdn6fe5JYkSQ,spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ,Latto,['trap queen'],80,1805463,https://i.scdn.co/image/ab6761610000e5eba11b0b5c37498f5dddb1bd7b,2024-11-01
-6fOqdhRNsMQqtwRwgo3NUv,spotify:artist:6fOqdhRNsMQqtwRwgo3NUv,Firdhaus,['malaysian mandopop'],64,84061,https://i.scdn.co/image/ab6761610000e5eb6f9e419c4ae583483afcd152,2024-11-01
-0czbvTRVGHfCdRsJLxbBGQ,spotify:artist:0czbvTRVGHfCdRsJLxbBGQ,DIOR 大穎,[],57,21842,https://i.scdn.co/image/ab6761610000e5ebb26eb3b525aebcf55cddb6a6,2024-11-01
-4TEK9tIkcoxib4GxT3O4ky,spotify:artist:4TEK9tIkcoxib4GxT3O4ky,KISS OF LIFE,"['5th gen k-pop', 'k-pop girl group']",75,1432889,https://i.scdn.co/image/ab6761610000e5ebbf250c4fdc18bb30560fceb5,2024-11-01
-22wbnEMDvgVIAGdFeek6ET,spotify:artist:22wbnEMDvgVIAGdFeek6ET,Benson Boone,['singer-songwriter pop'],86,3820784,https://i.scdn.co/image/ab6761610000e5ebb2ce21a89c09c00d80d8ca25,2024-11-01
-45dkTj5sMRSjrmBSBeiHym,spotify:artist:45dkTj5sMRSjrmBSBeiHym,Tate McRae,['pop'],85,6110804,https://i.scdn.co/image/ab6761610000e5ebe61da00cc3795e12aa732516,2024-11-01
-4SpbR6yFEvexJuaBpgAU5p,spotify:artist:4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,['k-pop girl group'],81,5987350,https://i.scdn.co/image/ab6761610000e5ebd7d7064b17d00c6f8755eae6,2024-11-01
-0fGcIStdT1OpFFhOC7Wp36,spotify:artist:0fGcIStdT1OpFFhOC7Wp36,Teezo Touchdown,[],72,295179,https://i.scdn.co/image/ab6761610000e5eb8c248ffca9237c963ad743a4,2024-11-01
-7nqOGRxlXj7N2JYbgNEjYH,spotify:artist:7nqOGRxlXj7N2JYbgNEjYH,SEVENTEEN,"['k-pop', 'k-pop boy group']",83,12353352,https://i.scdn.co/image/ab6761610000e5eb8912a840e637dacc0d5c7828,2024-11-01
-0QHgL1lAIqAw0HtD7YldmP,spotify:artist:0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",77,11715730,https://i.scdn.co/image/ab6761610000e5eb084f36c2ae2da4a02494e1e5,2024-11-01
-2elBjNSdBE2Y3f0j1mjrql,spotify:artist:2elBjNSdBE2Y3f0j1mjrql,Jay Chou,"['c-pop', 'mandopop', 'taiwan pop', 'zhongguo feng']",76,6208226,https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da,2024-11-01
-4gzpq5DPGxSnKTe4SA8HAU,spotify:artist:4gzpq5DPGxSnKTe4SA8HAU,Coldplay,"['permanent wave', 'pop']",92,54371165,https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb,2024-11-01
-3JsHnjpbhX4SnySpvpa9DK,spotify:artist:3JsHnjpbhX4SnySpvpa9DK,V,"['j-division', 'korean ost']",83,18945023,https://i.scdn.co/image/ab6761610000e5eb8e7d00d3aae87cf8fc6946e2,2024-11-01
-7ltDVBr6mKbRvohxheJ9h1,spotify:artist:7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,"['pop', 'r&b en espanol']",82,8366093,https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49,2024-11-01
-6JrR3zrG0NQiXb9N9XSyGb,spotify:artist:6JrR3zrG0NQiXb9N9XSyGb,Cocktail,"['t-pop', 'thai pop', 'thai rock']",62,1496995,https://i.scdn.co/image/ab6761610000e5ebd7706f75460a24f8fd1132df,2024-11-01
-2F8QVTDDHb8n0cwR9ftxFs,spotify:artist:2F8QVTDDHb8n0cwR9ftxFs,Q Flure,[],51,452,,2024-11-01
-2LIk90788K0zvyj2JJVwkJ,spotify:artist:2LIk90788K0zvyj2JJVwkJ,Jack Harlow,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",80,3950662,https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb,2024-11-01
-3Q5Qep7ytrjVleNnMnntgQ,spotify:artist:3Q5Qep7ytrjVleNnMnntgQ,TEN,['k-pop'],65,745001,https://i.scdn.co/image/ab6761610000e5eb120c180b98729c6448e06703,2024-11-01
-1xrRqVDsJaZPw0sXme5i2T,spotify:artist:1xrRqVDsJaZPw0sXme5i2T,PP Krit,['t-pop'],58,350652,https://i.scdn.co/image/ab6761610000e5ebef1b22d1cac337f7981fdf83,2024-11-01
-6HEMZkIMQAPnd36iLsUlTx,spotify:artist:6HEMZkIMQAPnd36iLsUlTx,PUN,['t-pop'],65,270449,https://i.scdn.co/image/ab6761610000e5eb256674211490209c3fcf93e7,2024-11-01
-5xq3BK55BJmutN0X7eTyQB,spotify:artist:5xq3BK55BJmutN0X7eTyQB,Jeff Satur,['t-pop'],64,1145916,https://i.scdn.co/image/ab6761610000e5ebc93ab532457d9aef9a893595,2024-11-01
-2DaMrZndfGgM3yd9ivadRC,spotify:artist:2DaMrZndfGgM3yd9ivadRC,Lipta,"['t-pop', 'thai pop']",58,523906,https://i.scdn.co/image/ab6761610000e5ebe2921fe54d34bddad803df6d,2024-11-01
-5zSQoNQ9o2dnT1LPTzDxg7,spotify:artist:5zSQoNQ9o2dnT1LPTzDxg7,Mirrr,"['t-pop', 'thai indie pop']",60,270986,https://i.scdn.co/image/ab6761610000e5ebe407c548cac958b0b6927b10,2024-11-01
-6chmC6o0wvACYVGTITw3Pz,spotify:artist:6chmC6o0wvACYVGTITw3Pz,NONT TANONT,['t-pop'],63,1344795,https://i.scdn.co/image/ab6761610000e5eba90ea2bdb4432288e0eae09c,2024-11-01
-1aEKvjRnbf1laB7DVXFqsG,spotify:artist:1aEKvjRnbf1laB7DVXFqsG,fellow fellow,['t-pop'],63,313154,https://i.scdn.co/image/ab6761610000e5eb670dd49556014640e7c42678,2024-11-01
-52VcFYcq5kJEaRYgy58ouW,spotify:artist:52VcFYcq5kJEaRYgy58ouW,Paper Planes,"['t-pop', 'thai rock']",55,140305,https://i.scdn.co/image/ab6761610000e5eb4d4ddc79e3aa50a3e55b262d,2024-11-01
-5RQZVhw9dwZYc10QQfNMf1,spotify:artist:5RQZVhw9dwZYc10QQfNMf1,JOEY PHUWASIT,[],52,466656,https://i.scdn.co/image/ab6761610000e5ebc404ff2c1b8d830c3649da72,2024-11-01
-5pokGZ1K9Hr6etaKPDxSG8,spotify:artist:5pokGZ1K9Hr6etaKPDxSG8,THE TOYS,['t-pop'],62,1455744,https://i.scdn.co/image/ab6761610000e5eb3edf0563fc7413d0c62fd9a7,2024-11-01
-1Twi7NfmUzbXF7lEMaGCqF,spotify:artist:1Twi7NfmUzbXF7lEMaGCqF,Ink Waruntorn,"['t-pop', 'thai indie pop']",58,834439,https://i.scdn.co/image/ab6761610000e5ebdfca7b30f2938f459607e457,2024-11-01
-0XkEUMM4lJHAzfTK9vR0cu,spotify:artist:0XkEUMM4lJHAzfTK9vR0cu,Violette Wautier,"['t-pop', 'thai indie pop', 'thai pop']",56,901927,https://i.scdn.co/image/ab6761610000e5eb1c3cc1bcdcda946e8484d07f,2024-11-01
-61hVICScGPBw0WmGPqWVRE,spotify:artist:61hVICScGPBw0WmGPqWVRE,เล็กสเร็น,[],47,6792,https://i.scdn.co/image/ab67616d0000b2733741a4314abb369b8c5c4888,2024-11-01
-2xsBUJ327d3iC1LvL5hYrQ,spotify:artist:2xsBUJ327d3iC1LvL5hYrQ,YEW,"['t-pop', 'thai indie rock']",57,426241,https://i.scdn.co/image/ab6761610000e5eb4f3d625f5a25ab7ea6906b28,2024-11-01
-5ghOUzxpnQmnPQDwC1thIz,spotify:artist:5ghOUzxpnQmnPQDwC1thIz,ASIA7,[],51,16843,https://i.scdn.co/image/ab6761610000e5ebf319da7db1336e3d0e7b12d5,2024-11-01
-2SWWw5uB9cO5m7zJQZqwmr,spotify:artist:2SWWw5uB9cO5m7zJQZqwmr,BOWKYLION,"['t-pop', 'thai indie pop']",58,1255294,https://i.scdn.co/image/ab6761610000e5ebdcea2a36fee1a492f6cc7f3b,2024-11-01
-0UAiHanBWs5vRM1tSPf2RJ,spotify:artist:0UAiHanBWs5vRM1tSPf2RJ,No One Else,['t-pop'],56,179913,https://i.scdn.co/image/ab6761610000e5eb704270d2e87d36d712d461e4,2024-11-01
-1qveov8f3HXFhDIWtFO5tG,spotify:artist:1qveov8f3HXFhDIWtFO5tG,guncharlie,['t-pop'],55,32097,https://i.scdn.co/image/ab6761610000e5eb93e76e9dd8f0d1050c49288d,2024-11-01
-0qQI2kmsvSe2ex9k94T5vu,spotify:artist:0qQI2kmsvSe2ex9k94T5vu,JAEHYUN,[],68,920854,https://i.scdn.co/image/ab6761610000e5eb94701b06992bc0672f7e8caf,2024-11-01
-5kU6FKYW7YBB2ikPQnk8cS,spotify:artist:5kU6FKYW7YBB2ikPQnk8cS,BUS,"['t-pop', 't-pop boy group']",61,277249,https://i.scdn.co/image/ab6761610000e5ebdc652a44d9c5e03eb687fa2f,2024-11-01
-2a727ekkPaUHk0bMifk7fj,spotify:artist:2a727ekkPaUHk0bMifk7fj,Billkin,['t-pop'],61,894411,https://i.scdn.co/image/ab6761610000e5ebaa69cfd6ff574ddea5e8fe52,2024-11-01
-3moR9d0X97NAtZRhHWOta5,spotify:artist:3moR9d0X97NAtZRhHWOta5,Saran,"['thai hip hop', 'thai trap']",66,2107974,https://i.scdn.co/image/ab6761610000e5eb63e937da8c564444f3d9a2f3,2024-11-01
-3Ld1g6LjfR2ILDB6SD8aJV,spotify:artist:3Ld1g6LjfR2ILDB6SD8aJV,BlackHeart,['thai viral pop'],58,92341,https://i.scdn.co/image/ab6761610000e5eb4eb43b6949942b5c4e56ca3f,2024-11-01
-5vzCTzMec4uL6JCNkOFcZ2,spotify:artist:5vzCTzMec4uL6JCNkOFcZ2,Pondering,['thai hip hop'],56,196443,https://i.scdn.co/image/ab6761610000e5eb7f198473cf703adf47549ace,2024-11-01
-1qAOsY7jv9GFTv4HoVof5P,spotify:artist:1qAOsY7jv9GFTv4HoVof5P,Three Man Down,"['t-pop', 'thai indie pop']",61,2028199,https://i.scdn.co/image/ab6761610000e5eb013b76dbf70fc11888902360,2024-11-01
-4G5OlxtrOm9ADmu3VZgFbG,spotify:artist:4G5OlxtrOm9ADmu3VZgFbG,MEYOU,"['t-pop', 'thai hip hop', 'thai indie pop']",58,692106,https://i.scdn.co/image/ab6761610000e5ebc5a1cf78526be973401ec79c,2024-11-01
-6IyHyMlpel4mF7hTldZu3m,spotify:artist:6IyHyMlpel4mF7hTldZu3m,LITTLE JOHN,[],48,3767,https://i.scdn.co/image/ab6761610000e5eb9da4d69fd36d554e3af9faf4,2024-11-01
-57g2v7gJZepcwsuwssIfZs,spotify:artist:57g2v7gJZepcwsuwssIfZs,Vũ.,"['indie viet', 'rock viet', 'v-pop', 'vietnamese singer-songwriter']",67,2175957,https://i.scdn.co/image/ab6761610000e5eb2d7150aa7e90e9a85610ab3d,2024-11-01
-2nSO7JYDbJrYbJmP39qUzj,spotify:artist:2nSO7JYDbJrYbJmP39qUzj,Binz,"['v-pop', 'vietnamese hip hop']",62,1143437,https://i.scdn.co/image/ab6761610000e5ebcbc6b072aec429273fdbd53b,2024-11-01
-3diftVOq7aEIebXKkC34oR,spotify:artist:3diftVOq7aEIebXKkC34oR,tlinh,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",68,1180479,https://i.scdn.co/image/ab6761610000e5eb230e62752ca87da1d85d0445,2024-11-01
-6TITnFVRcl0AcZ4syE7Toe,spotify:artist:6TITnFVRcl0AcZ4syE7Toe,Low G,['vietnamese hip hop'],67,1473330,https://i.scdn.co/image/ab6761610000e5eb655c4a2a98366c2a276f6e9b,2024-11-01
-4wZ6awunqaaVLl5j0WpDFu,spotify:artist:4wZ6awunqaaVLl5j0WpDFu,"ANH TRAI ""SAY HI""",[],72,267712,https://i.scdn.co/image/ab6761610000e5eb97d758a5602772c33428697e,2024-11-01
-4KPyQxL1zqEiBcTwW6c9HE,spotify:artist:4KPyQxL1zqEiBcTwW6c9HE,Dương Domic,[],63,114165,https://i.scdn.co/image/ab6761610000e5eb91e368493080d197e5a0f478,2024-11-01
-2dC1IBU9NOD9xsQJ5RE7j7,spotify:artist:2dC1IBU9NOD9xsQJ5RE7j7,Puppy,['viet chill rap'],52,12331,https://i.scdn.co/image/ab6761610000e5eb12b2ad3bacec1ca71265fba9,2024-11-01
-5xY6E5PMZNtz9jDvxTRiGI,spotify:artist:5xY6E5PMZNtz9jDvxTRiGI,Dangrangto,['viet chill rap'],60,60358,https://i.scdn.co/image/ab6761610000e5eb1fd256e398422802c8261ab4,2024-11-01
-6zUWZmyi5MLOEynQ5wCI5f,spotify:artist:6zUWZmyi5MLOEynQ5wCI5f,Da LAB,"['indie viet', 'v-pop', 'vietnamese hip hop']",63,1071942,https://i.scdn.co/image/ab6761610000e5eb62c092ca08054a8ce883ef7e,2024-11-01
-27RoKwun6jKycKbH2iYUFU,spotify:artist:27RoKwun6jKycKbH2iYUFU,Minh Tốc & Lam,['indie viet'],53,17550,https://i.scdn.co/image/ab6761610000e5eb29183371047297faf6b73f8a,2024-11-01
-5HZtdKfC4xU0wvhEyYDWiY,spotify:artist:5HZtdKfC4xU0wvhEyYDWiY,HIEUTHUHAI,"['v-pop', 'vietnamese hip hop']",70,1710507,https://i.scdn.co/image/ab6761610000e5ebe1cbc9e7ba8fbc5d7738ea51,2024-11-01
-3y6Lfjkrdn5TgkbgDxbpvM,spotify:artist:3y6Lfjkrdn5TgkbgDxbpvM,marzuz,"['rock viet', 'viet chill rap']",54,13505,https://i.scdn.co/image/ab6761610000e5eb0559efc622ebbe844fa38b81,2024-11-01
-5ulyphh5uJrH4Gb1JpSMkV,spotify:artist:5ulyphh5uJrH4Gb1JpSMkV,HURRYKNG,['vietnamese hip hop'],62,135865,https://i.scdn.co/image/ab6761610000e5eb3b7998f162dea56d0961bd97,2024-11-01
-4fg8aMZ23d2bxKz7r2vt9v,spotify:artist:4fg8aMZ23d2bxKz7r2vt9v,Negav,"['v-pop', 'vietnamese hip hop']",65,152136,https://i.scdn.co/image/ab6761610000e5eb9fa9217f87efc8ad1e386ba3,2024-11-01
-13c4ijEkXNvEFoxGxwp5Su,spotify:artist:13c4ijEkXNvEFoxGxwp5Su,Pháp Kiều,['v-pop'],63,81092,https://i.scdn.co/image/ab6761610000e5ebf5f768a7ffaa501383e5fe13,2024-11-01
-40JnMfFlpwqBnWitkL96g4,spotify:artist:40JnMfFlpwqBnWitkL96g4,Isaac,['v-pop'],58,161360,https://i.scdn.co/image/ab6761610000e5ebcb44ea77e9b885b05ea60e8a,2024-11-01
-1Qia4CTwh6x0CZbD0079zi,spotify:artist:1Qia4CTwh6x0CZbD0079zi,CoolKid,['v-pop'],58,48231,https://i.scdn.co/image/ab6761610000e5ebdda5508935c3a230ba9f1690,2024-11-01
-1W2pigH6UYwuTuFbwoSfVZ,spotify:artist:1W2pigH6UYwuTuFbwoSfVZ,RHYDER,['v-pop'],66,302949,https://i.scdn.co/image/ab6761610000e5eb7930fac4aae6d581d9f49e1b,2024-11-01
-0iqum9KAHh3LkgDhuqvTxM,spotify:artist:0iqum9KAHh3LkgDhuqvTxM,Song Luân,['v-pop'],59,26854,https://i.scdn.co/image/ab6761610000e5eb7dc38e2e87932e42b383cbd5,2024-11-01
-6EybZ5zwPNEtEngfrEMevN,spotify:artist:6EybZ5zwPNEtEngfrEMevN,JSOL,['v-pop'],61,126170,https://i.scdn.co/image/ab6761610000e5eba3005cf671ed2e6e6841e14a,2024-11-01
-5pyjjs1k7keBTqwhkVs7MA,spotify:artist:5pyjjs1k7keBTqwhkVs7MA,Trần Đăng Dương,[],52,50,,2024-11-01
-3oD2yI1g6aT3KawHD8ZYaU,spotify:artist:3oD2yI1g6aT3KawHD8ZYaU,TeuYungBoy,[],52,8661,https://i.scdn.co/image/ab6761610000e5eba893ad982483ec2161750c7c,2024-11-01
-3rSAej8VUifF02zpsGjsRZ,spotify:artist:3rSAej8VUifF02zpsGjsRZ,DONAL,[],50,567,https://i.scdn.co/image/ab6761610000e5ebdaf49778344410bbdd1f38fd,2024-11-01
-0CO1IZAPmgTbkfXvcRCLsL,spotify:artist:0CO1IZAPmgTbkfXvcRCLsL,BAN,[],52,48604,https://i.scdn.co/image/ab67616d0000b273d2d38c122fe10d906459bc34,2024-11-01
-5dfZ5uSmzR7VQK0udbAVpf,spotify:artist:5dfZ5uSmzR7VQK0udbAVpf,Sơn Tùng M-TP,"['v-pop', 'vietnamese idol pop', 'vietnamese melodic rap']",64,6002679,https://i.scdn.co/image/ab6761610000e5eb5a79a6ca8c60e4ec1440be53,2024-11-01
-0slOzRzTQb1RBBVJbvRITP,spotify:artist:0slOzRzTQb1RBBVJbvRITP,Quang Hùng MasterD,['v-pop'],63,163125,https://i.scdn.co/image/ab6761610000e5eb3a43feeddb17398d946e72b2,2024-11-01
-1L1VfizWn4DkFt602yD80U,spotify:artist:1L1VfizWn4DkFt602yD80U,ERIK,['v-pop'],62,935759,https://i.scdn.co/image/ab6761610000e5ebec6827805882ed3407b8cffd,2024-11-01
-1pKPrziZw7C4GvOlBIXqP5,spotify:artist:1pKPrziZw7C4GvOlBIXqP5,Captain,[],59,100743,https://i.scdn.co/image/ab6761610000e5eb7116784c8dac5aef248a6923,2024-11-01
-30eFAXoU2kTjJPf2cq80B8,spotify:artist:30eFAXoU2kTjJPf2cq80B8,WEAN,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",62,338799,https://i.scdn.co/image/ab6761610000e5eb24b6a2cff3114e58882c5aaf,2024-11-01
-4RPhZ2g5GYff0hKNBlZKXh,spotify:artist:4RPhZ2g5GYff0hKNBlZKXh,Ali Hoàng Dương,['v-pop'],59,52968,https://i.scdn.co/image/ab6761610000e5ebede0c85df5cdfafc916d1699,2024-11-01
-62D1qvKkvUCvXEtY1xwRfo,spotify:artist:62D1qvKkvUCvXEtY1xwRfo,Anh Tú Atus,['v-pop'],58,100204,https://i.scdn.co/image/ab6761610000e5eb8f47b8f7d070919fff02059b,2024-11-01
-5lAfakPZgxFKgiJD6xAF1G,spotify:artist:5lAfakPZgxFKgiJD6xAF1G,Orange,['v-pop'],59,491456,https://i.scdn.co/image/ab6761610000e5ebcd592c3253fe8d46ad958cfb,2024-11-01
-5jTFNkoZebPnX90CbB3F2A,spotify:artist:5jTFNkoZebPnX90CbB3F2A,MONO,['v-pop'],53,834460,https://i.scdn.co/image/ab6761610000e5ebc7370f8d6777973a9ca59051,2024-11-01
-2aQnC3DbZB9GbauvhAw7ve,spotify:artist:2aQnC3DbZB9GbauvhAw7ve,AMEE,"['v-pop', 'vietnamese idol pop']",63,1395343,https://i.scdn.co/image/ab6761610000e5ebfd70279a04a9b3796e7dcd4d,2024-11-01
-1zSv9qZANOWB4HRE8sxeTL,spotify:artist:1zSv9qZANOWB4HRE8sxeTL,RPT MCK,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap', 'vietnamese trap']",64,1087809,https://i.scdn.co/image/ab6761610000e5ebb97791c136d7354ad7792555,2024-11-01
-2rKtPYcwYmevNcaqzJOwvf,spotify:artist:2rKtPYcwYmevNcaqzJOwvf,MANBO,"['v-pop', 'vietnamese hip hop']",56,121554,https://i.scdn.co/image/ab6761610000e5ebf7c3ce38eb5312d02b8b94b1,2024-11-01
-4bPYvyUn1mWwUwIW57oST2,spotify:artist:4bPYvyUn1mWwUwIW57oST2,Emcee L (Da LAB),"['v-pop', 'vietnamese hip hop']",54,182765,https://i.scdn.co/image/ab6761610000e5eb92dc4a2cbffbddb59f825fe0,2024-11-01
-1Tdy7LZnrufTyuEbgDi1D8,spotify:artist:1Tdy7LZnrufTyuEbgDi1D8,Muộii (Starry Night),[],50,935,https://i.scdn.co/image/ab67616d0000b27388e5078e96b04041e93a7f90,2024-11-01
-6V1SwiosQqf5XvmoTMCGa9,spotify:artist:6V1SwiosQqf5XvmoTMCGa9,Dear Jane,['cantopop'],57,257474,https://i.scdn.co/image/ab6761610000e5eb61925c6e018eaf74a606ed26,2024-11-01
-2NRcG7E1j2sSi8vnUzCcpi,spotify:artist:2NRcG7E1j2sSi8vnUzCcpi,Quân A.P,['v-pop'],59,611509,https://i.scdn.co/image/ab6761610000e5eb2072677a48d16d8b22f9a0b6,2024-11-01
-4cLYlDISnWaErAitB8kRph,spotify:artist:4cLYlDISnWaErAitB8kRph,Quang Trung,"['v-pop', 'viet lo-fi']",57,37654,https://i.scdn.co/image/ab67616d0000b273f53327cf9b7f7c17c1b55743,2024-11-01
-3E0b68wCGYihuHBtlasfm9,spotify:artist:3E0b68wCGYihuHBtlasfm9,Lâm Bảo Ngọc,[],54,17983,https://i.scdn.co/image/ab6761610000e5eb6c3b47777655c69d0f3fb627,2024-11-01
-1OIYKbmhG0RxPXvVPNj3NN,spotify:artist:1OIYKbmhG0RxPXvVPNj3NN,Madihu,"['indie viet', 'v-pop', 'vietnamese melodic rap']",53,251414,https://i.scdn.co/image/ab6761610000e5eb3bcc23d31e8962897b7d3e2c,2024-11-01
-5zT1Ku9mzzl6RW5y4z0hUK,spotify:artist:5zT1Ku9mzzl6RW5y4z0hUK,Minh Huy,['v-pop'],53,24878,https://i.scdn.co/image/ab6761610000e5eb90b464e6a04fe5034b31be89,2024-11-01
-0zo8kCJVktn7oPnzpkbC2p,spotify:artist:0zo8kCJVktn7oPnzpkbC2p,14 Casper,"['v-pop', 'viet lo-fi']",53,67296,https://i.scdn.co/image/ab6761610000e5eb42fb0df77a8d030b7d245551,2024-11-01
-6hnfLIkvDl6pjlAe1YRGXY,spotify:artist:6hnfLIkvDl6pjlAe1YRGXY,Bon Nghiêm,['viet chill rap'],53,12383,https://i.scdn.co/image/ab6761610000e5ebef9647ce73755bfd671de9db,2024-11-01
-7Cp2hGcriAaDUAWpXnSEwm,spotify:artist:7Cp2hGcriAaDUAWpXnSEwm,buitruonglinh,"['indie viet', 'v-pop']",57,465618,https://i.scdn.co/image/ab6761610000e5eb5b724614e967f700a802e058,2024-11-01
-5Kh0ta0UY4uJ4g2CIdq9V9,spotify:artist:5Kh0ta0UY4uJ4g2CIdq9V9,Phương Ly,['v-pop'],57,549492,https://i.scdn.co/image/ab6761610000e5eb98e5b6fa1349f9b48129ce98,2024-11-01
-5M3ffmRiOX9Q8Y4jNeR5wu,spotify:artist:5M3ffmRiOX9Q8Y4jNeR5wu,Wren Evans,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",60,545802,https://i.scdn.co/image/ab6761610000e5eb10e658dffbc09c792ad3969c,2024-11-01
-0hy8mfXxfD8kQ6MRQkDVrn,spotify:artist:0hy8mfXxfD8kQ6MRQkDVrn,itsnk,['vietnamese hip hop'],57,21011,https://i.scdn.co/image/ab6761610000e5eb6dd1239974f4b143fdfa842e,2024-11-01
-6NF9Oa4ThQWCj6mogFSrVD,spotify:artist:6NF9Oa4ThQWCj6mogFSrVD,W/N,"['indie viet', 'v-pop']",61,1418190,https://i.scdn.co/image/ab6761610000e5eb316c0f0bc6cf3a29c203ab1e,2024-11-01
-0dBcEvEklr1jx4uZuhFX5e,spotify:artist:0dBcEvEklr1jx4uZuhFX5e,Ronboogz,[],60,220238,https://i.scdn.co/image/ab6761610000e5eb8de0c8ed480aabd579520b48,2024-11-01
-0XtC2d9ZVigYA7iMy5YkW0,spotify:artist:0XtC2d9ZVigYA7iMy5YkW0,2pillz,['viet chill rap'],57,40762,https://i.scdn.co/image/ab6761610000e5ebb0e8ef2d28b9487d7af47d75,2024-11-01
-3kcYkLL2sI2lCsIW0OS1fu,spotify:artist:3kcYkLL2sI2lCsIW0OS1fu,Jmi Ko,[],49,152,https://i.scdn.co/image/ab6761610000e5ebb34179258e7cd46e0ed37ec9,2024-11-01
+artist_id,artist_uri,artist_name,artist_genres,artist_popularity,artist_follower,artist_image_url
+027TpXKGwdXP7iwbjUSpV8,spotify:artist:027TpXKGwdXP7iwbjUSpV8,The Walters,"['chicago indie', 'pov: indie']",73,823459,https://i.scdn.co/image/ab6761610000e5eb6c4366f40ea49c1318707f97
+06HL4z0CvFAxyc27GXpf02,spotify:artist:06HL4z0CvFAxyc27GXpf02,Taylor Swift,['pop'],100,125121649,https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676
+06QVnTCdjs4jPKO0487EGV,spotify:artist:06QVnTCdjs4jPKO0487EGV,Fiersa Besari,"['bandung indie', 'indonesian folk pop', 'indonesian indie', 'indonesian pop', 'indonesian pop punk']",70,5244138,https://i.scdn.co/image/ab6761610000e5ebaf659f61f9c27fb44fcd153f
+09Xydf4dlkr29dH99DmsvQ,spotify:artist:09Xydf4dlkr29dH99DmsvQ,Janine,"['opm', 'pinoy singer-songwriter']",65,536593,https://i.scdn.co/image/ab6761610000e5eb624bad868bb6710a5020cb32
+0CO1IZAPmgTbkfXvcRCLsL,spotify:artist:0CO1IZAPmgTbkfXvcRCLsL,BAN,[],52,49057,https://i.scdn.co/image/ab67616d0000b273d2d38c122fe10d906459bc34
+0DpLoyGVbhOHNR3ht2oO9y,spotify:artist:0DpLoyGVbhOHNR3ht2oO9y,Calein,"['opm', 'pinoy city pop']",60,551823,https://i.scdn.co/image/ab6761610000e5ebb169229f8254ce1389273cf9
+0FRUZvZNPzM3YJMABJxf2K,spotify:artist:0FRUZvZNPzM3YJMABJxf2K,WENDY,"['k-pop', 'korean pop']",55,946935,https://i.scdn.co/image/ab6761610000e5ebeb30a593572712cb0a32a645
+0NIIxcxNHmOoyBx03SfTCD,spotify:artist:0NIIxcxNHmOoyBx03SfTCD,Tinashe,"['alternative r&b', 'dance pop', 'metropopolis', 'pop', 'r&b']",74,2866601,https://i.scdn.co/image/ab6761610000e5eba669f860c74c9007934d2cb6
+0OjRa6r1EIPF5RZPy1SGz9,spotify:artist:0OjRa6r1EIPF5RZPy1SGz9,Musketeers,"['deep german indie', 't-pop', 'thai pop']",59,640742,https://i.scdn.co/image/ab6761610000e5eb9ce1effcd929f5776754ffd8
+0UAiHanBWs5vRM1tSPf2RJ,spotify:artist:0UAiHanBWs5vRM1tSPf2RJ,No One Else,['t-pop'],57,181048,https://i.scdn.co/image/ab6761610000e5eb704270d2e87d36d712d461e4
+0WleeEe3UurwlNbDGhb5Yz,spotify:artist:0WleeEe3UurwlNbDGhb5Yz,ALLMO$T,"['opm', 'pinoy hip hop', 'pinoy r&b', 'tagalog rap']",62,834602,https://i.scdn.co/image/ab6761610000e5eb68483d34cba192ef2827b0ca
+0XkEUMM4lJHAzfTK9vR0cu,spotify:artist:0XkEUMM4lJHAzfTK9vR0cu,Violette Wautier,"['t-pop', 'thai indie pop', 'thai pop']",57,903167,https://i.scdn.co/image/ab6761610000e5eb1c3cc1bcdcda946e8484d07f
+0XtC2d9ZVigYA7iMy5YkW0,spotify:artist:0XtC2d9ZVigYA7iMy5YkW0,2pillz,['viet chill rap'],57,41026,https://i.scdn.co/image/ab6761610000e5ebb0e8ef2d28b9487d7af47d75
+0czbvTRVGHfCdRsJLxbBGQ,spotify:artist:0czbvTRVGHfCdRsJLxbBGQ,DIOR 大穎,[],57,22244,https://i.scdn.co/image/ab6761610000e5ebb26eb3b525aebcf55cddb6a6
+0dBcEvEklr1jx4uZuhFX5e,spotify:artist:0dBcEvEklr1jx4uZuhFX5e,Ronboogz,[],60,222695,https://i.scdn.co/image/ab6761610000e5eb8de0c8ed480aabd579520b48
+0du5cEVh5yTK9QJze8zA0C,spotify:artist:0du5cEVh5yTK9QJze8zA0C,Bruno Mars,"['dance pop', 'pop']",96,61470088,https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd
+0f6TyESD8E1mD2oLJ4TGv1,spotify:artist:0f6TyESD8E1mD2oLJ4TGv1,For Revenge,"['bandung indie', 'indonesian emo', 'indonesian post-hardcore']",73,1157424,https://i.scdn.co/image/ab6761610000e5ebe8617ec4d897e68ec5c2f5d3
+0ghlgldX5Dd6720Q3qFyQB,spotify:artist:0ghlgldX5Dd6720Q3qFyQB,TOMORROW X TOGETHER,"['k-pop', 'k-pop boy group']",78,10671526,https://i.scdn.co/image/ab6761610000e5ebb4ada047a1c3089342294290
+0hy8mfXxfD8kQ6MRQkDVrn,spotify:artist:0hy8mfXxfD8kQ6MRQkDVrn,itsnk,['vietnamese hip hop'],57,21126,https://i.scdn.co/image/ab6761610000e5eb6dd1239974f4b143fdfa842e
+0iqum9KAHh3LkgDhuqvTxM,spotify:artist:0iqum9KAHh3LkgDhuqvTxM,Song Luân,['v-pop'],59,27806,https://i.scdn.co/image/ab6761610000e5eb7dc38e2e87932e42b383cbd5
+0kPb52ySN2k9P6wEZPTUzm,spotify:artist:0kPb52ySN2k9P6wEZPTUzm,Tiara Andini,['indonesian pop'],74,7906865,https://i.scdn.co/image/ab6761610000e5eb279ea1ce2bcd38b92b66fa0c
+0kw7tMniMnrp9Pcr7vgDAm,spotify:artist:0kw7tMniMnrp9Pcr7vgDAm,Stereo Wall,['indonesian pop punk'],62,83276,https://i.scdn.co/image/ab6761610000e5eb29fc1e7c1efc3d371241763f
+0slOzRzTQb1RBBVJbvRITP,spotify:artist:0slOzRzTQb1RBBVJbvRITP,Quang Hùng MasterD,['v-pop'],63,168623,https://i.scdn.co/image/ab6761610000e5eb3a43feeddb17398d946e72b2
+0zo8fkOQyrawuBfIhy99jb,spotify:artist:0zo8fkOQyrawuBfIhy99jb,Hyper Act,['malaysian pop'],53,197038,https://i.scdn.co/image/ab67616d0000b273863a175ed906280e46605142
+0zo8kCJVktn7oPnzpkbC2p,spotify:artist:0zo8kCJVktn7oPnzpkbC2p,14 Casper,"['v-pop', 'viet lo-fi']",53,67640,https://i.scdn.co/image/ab6761610000e5eb42fb0df77a8d030b7d245551
+13c4ijEkXNvEFoxGxwp5Su,spotify:artist:13c4ijEkXNvEFoxGxwp5Su,Pháp Kiều,['v-pop'],63,83917,https://i.scdn.co/image/ab6761610000e5ebf5f768a7ffaa501383e5fe13
+16B3ICSQCPu4C6L5TEHXQe,spotify:artist:16B3ICSQCPu4C6L5TEHXQe,Rio Clappy,[],65,68353,https://i.scdn.co/image/ab6761610000e5ebe36a615b3a5dd61afaa3386d
+1Cs0zKBU1kc0i8ypK3B9ai,spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",90,26382680,https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f
+1DlYnIiliftt6R21Y5NOW2,spotify:artist:1DlYnIiliftt6R21Y5NOW2,Adie,['opm'],69,3355469,https://i.scdn.co/image/ab6761610000e5ebf4310260df78494ba2b6d1a3
+1EUmQM6xgUQLUkJVcvSdey,spotify:artist:1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,['opm'],65,2001817,https://i.scdn.co/image/ab6761610000e5eb719663793c37681fa3c21628
+1HY2Jd0NmPuamShAr6KMms,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Lady Gaga,"['art pop', 'dance pop', 'pop']",92,32503928,https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79
+1Jmkhzve9TuXHUUWGmpANw,spotify:artist:1Jmkhzve9TuXHUUWGmpANw,Wxrdie,"['vietnamese hip hop', 'vietnamese melodic rap', 'vietnamese trap']",60,359872,https://i.scdn.co/image/ab6761610000e5eb718eb377685a3a392f8ed4a1
+1JvbNeV9zG9Sew1JyaWsyx,spotify:artist:1JvbNeV9zG9Sew1JyaWsyx,Anggi Marito,['indonesian pop'],64,1259938,https://i.scdn.co/image/ab6761610000e5ebed4272c85f1a3442ee4a52aa
+1L1VfizWn4DkFt602yD80U,spotify:artist:1L1VfizWn4DkFt602yD80U,ERIK,['v-pop'],62,937054,https://i.scdn.co/image/ab6761610000e5ebec6827805882ed3407b8cffd
+1NjxFrpEGZTV2Ny0OJxeWu,spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu,Sal Priadi,"['indonesian pop', 'malang indie']",71,912515,https://i.scdn.co/image/ab6761610000e5ebe0b0a8ea1627baec927037c3
+1OIYKbmhG0RxPXvVPNj3NN,spotify:artist:1OIYKbmhG0RxPXvVPNj3NN,Madihu,"['indie viet', 'v-pop', 'vietnamese melodic rap']",53,251937,https://i.scdn.co/image/ab6761610000e5eb3bcc23d31e8962897b7d3e2c
+1QAJqy2dA3ihHBFIHRphZj,spotify:artist:1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",86,13337911,https://i.scdn.co/image/ab6761610000e5eb0e871e0389b9722cc12a4118
+1Qia4CTwh6x0CZbD0079zi,spotify:artist:1Qia4CTwh6x0CZbD0079zi,CoolKid,['v-pop'],58,49247,https://i.scdn.co/image/ab6761610000e5ebdda5508935c3a230ba9f1690
+1SIocsqdEefUTE6XKGUiVS,spotify:artist:1SIocsqdEefUTE6XKGUiVS,BABYMONSTER,['5th gen k-pop'],75,2788908,https://i.scdn.co/image/ab6761610000e5ebb419d66ef21661311c806bfe
+1Tdy7LZnrufTyuEbgDi1D8,spotify:artist:1Tdy7LZnrufTyuEbgDi1D8,Muộii (Starry Night),[],50,939,https://i.scdn.co/image/ab67616d0000b27388e5078e96b04041e93a7f90
+1Twi7NfmUzbXF7lEMaGCqF,spotify:artist:1Twi7NfmUzbXF7lEMaGCqF,Ink Waruntorn,"['t-pop', 'thai indie pop']",58,836492,https://i.scdn.co/image/ab6761610000e5ebdfca7b30f2938f459607e457
+1U1el3k54VvEUzo3ybLPlM,spotify:artist:1U1el3k54VvEUzo3ybLPlM,Kali Uchis,['colombian pop'],86,8035659,https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68
+1W2pigH6UYwuTuFbwoSfVZ,spotify:artist:1W2pigH6UYwuTuFbwoSfVZ,RHYDER,['v-pop'],66,308294,https://i.scdn.co/image/ab6761610000e5eb7930fac4aae6d581d9f49e1b
+1WX2v0BiEW19Vw7xmznLdZ,spotify:artist:1WX2v0BiEW19Vw7xmznLdZ,Vierra,['indonesian pop'],69,1572312,https://i.scdn.co/image/ab6761610000e5ebce05aec92bc5b3e81205ff73
+1Xyo4u8uXC1ZmMpatF05PJ,spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,93796021,https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae
+1ZT1OfVAO3kpOEHVejBxV8,spotify:artist:1ZT1OfVAO3kpOEHVejBxV8,Meiska,['indonesian pop'],65,427569,https://i.scdn.co/image/ab6761610000e5ebe213407a0d0910cdcadf6495
+1aEKvjRnbf1laB7DVXFqsG,spotify:artist:1aEKvjRnbf1laB7DVXFqsG,fellow fellow,['t-pop'],63,315341,https://i.scdn.co/image/ab6761610000e5eb670dd49556014640e7c42678
+1cPpd989kghzlZqfpP4KwL,spotify:artist:1cPpd989kghzlZqfpP4KwL,RAP VIỆT,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",62,1722852,https://i.scdn.co/image/ab6761610000e5eb9d2bdcb58736ac5fbd385d11
+1chOgh5tgwfiyJ2zhUHwBj,spotify:artist:1chOgh5tgwfiyJ2zhUHwBj,Dionela,['opm'],73,780051,https://i.scdn.co/image/ab6761610000e5eb50069ac992d74c5610ecb9cc
+1gBUSTR3TyDdTVFIaQnc02,spotify:artist:1gBUSTR3TyDdTVFIaQnc02,NCT DREAM,['k-pop boy group'],75,7957318,https://i.scdn.co/image/ab6761610000e5eb487454fb2db6c6363ff0fd13
+1hMAGfvamVXuSWBFQRFMeq,spotify:artist:1hMAGfvamVXuSWBFQRFMeq,Over October,"['opm', 'pinoy indie', 'pinoy rock']",62,280578,https://i.scdn.co/image/ab6761610000e5eba43e2c2793604a3e541221fb
+1iCnM8foFssWlPRLfAbIwo,spotify:artist:1iCnM8foFssWlPRLfAbIwo,Gigi Perez,['bedroom pop'],80,445268,https://i.scdn.co/image/ab6761610000e5ebe5ff5495fe99ee0fa0236087
+1lg1jqQMMJQQFFMnkxn0zV,spotify:artist:1lg1jqQMMJQQFFMnkxn0zV,Ade Govinda,[],64,29159,https://i.scdn.co/image/ab6761610000e5ebadd8117c837c1235b2ae2f02
+1mcqfNCReSFxun2vIWvC28,spotify:artist:1mcqfNCReSFxun2vIWvC28,KZ Tandingan,['opm'],65,1201168,https://i.scdn.co/image/ab6761610000e5eb4da6fa70b879e62a1e5c50cc
+1oD9fKbb7qQ2nhn9JJC24F,spotify:artist:1oD9fKbb7qQ2nhn9JJC24F,Thắng,['v-pop'],54,200477,https://i.scdn.co/image/ab6761610000e5eb579763c716425127661bda67
+1oSPZhvZMIrWW5I41kPkkY,spotify:artist:1oSPZhvZMIrWW5I41kPkkY,Jimin,['k-pop'],88,9770858,https://i.scdn.co/image/ab6761610000e5ebcb08296cca5a2d197caabb79
+1pBLC0qVRTB5zVMuteQ9jJ,spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ,Lily-Rose Depp,['pop'],77,209484,https://i.scdn.co/image/ab6761610000e5ebc2fb4b8e035fbdad27da865f
+1pKPrziZw7C4GvOlBIXqP5,spotify:artist:1pKPrziZw7C4GvOlBIXqP5,Captain,[],59,103021,https://i.scdn.co/image/ab6761610000e5eb7116784c8dac5aef248a6923
+1qAOsY7jv9GFTv4HoVof5P,spotify:artist:1qAOsY7jv9GFTv4HoVof5P,Three Man Down,"['t-pop', 'thai indie pop']",61,2030879,https://i.scdn.co/image/ab6761610000e5eb013b76dbf70fc11888902360
+1qveov8f3HXFhDIWtFO5tG,spotify:artist:1qveov8f3HXFhDIWtFO5tG,guncharlie,['t-pop'],55,32595,https://i.scdn.co/image/ab6761610000e5eb93e76e9dd8f0d1050c49288d
+1ssEwBiz4ZKrbgR6o8vOeg,spotify:artist:1ssEwBiz4ZKrbgR6o8vOeg,Polycat,"['greek house', 't-pop', 'thai indie pop', 'thai indie rock']",59,926189,https://i.scdn.co/image/ab6761610000e5eb823b991076d37018718c3ad2
+1uNFoZAHBGtllmzznpCI3s,spotify:artist:1uNFoZAHBGtllmzznpCI3s,Justin Bieber,"['canadian pop', 'pop']",91,78661768,https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36
+1v1khTmozNfxB2ET1Ep288,spotify:artist:1v1khTmozNfxB2ET1Ep288,Last Child,"['indonesian pop punk', 'indonesian rock']",75,9485869,https://i.scdn.co/image/ab6761610000e5eb3e2192453d16aa93116434b8
+1xrRqVDsJaZPw0sXme5i2T,spotify:artist:1xrRqVDsJaZPw0sXme5i2T,PP Krit,['t-pop'],59,351370,https://i.scdn.co/image/ab6761610000e5ebef1b22d1cac337f7981fdf83
+1zNqDE7qDGCsyzJwohVaoX,spotify:artist:1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,['pop'],79,12109520,https://i.scdn.co/image/ab6761610000e5eb679c995b0d4a641ba32aa5f0
+1zSv9qZANOWB4HRE8sxeTL,spotify:artist:1zSv9qZANOWB4HRE8sxeTL,RPT MCK,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap', 'vietnamese trap']",64,1090193,https://i.scdn.co/image/ab6761610000e5ebb97791c136d7354ad7792555
+20wkVLutqVOYrc0kxFs7rA,spotify:artist:20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,['canadian contemporary r&b'],86,7064180,https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8
+20zafXaLhm5IcXnSU93rNn,spotify:artist:20zafXaLhm5IcXnSU93rNn,Nadin Amizah,['indonesian pop'],74,6488230,https://i.scdn.co/image/ab6761610000e5eb1d143802cf034044739dbcdc
+22wbnEMDvgVIAGdFeek6ET,spotify:artist:22wbnEMDvgVIAGdFeek6ET,Benson Boone,['singer-songwriter pop'],86,3842277,https://i.scdn.co/image/ab6761610000e5ebb2ce21a89c09c00d80d8ca25
+24fEOzlKhgSNLIcy9NdmwH,spotify:artist:24fEOzlKhgSNLIcy9NdmwH,James Reid,"['deep neofolk', 'opm', 'pinoy r&b']",62,395770,https://i.scdn.co/image/ab6761610000e5eb8b73f48710e2d48219d110df
+250b0Wlc5Vk0CoUsaCY84M,spotify:artist:250b0Wlc5Vk0CoUsaCY84M,JENNIE,['k-pop'],83,7666973,https://i.scdn.co/image/ab6761610000e5ebcab652097be01bf194cdf11d
+25vaRIUlu5PahDqAWeYdxR,spotify:artist:25vaRIUlu5PahDqAWeYdxR,The Parkinson,"['t-pop', 'thai pop']",53,192648,https://i.scdn.co/image/ab6761610000e5ebcf61ca217eb695daae9b8fbd
+27RoKwun6jKycKbH2iYUFU,spotify:artist:27RoKwun6jKycKbH2iYUFU,Minh Tốc & Lam,['indie viet'],53,17731,https://i.scdn.co/image/ab6761610000e5eb29183371047297faf6b73f8a
+2DaMrZndfGgM3yd9ivadRC,spotify:artist:2DaMrZndfGgM3yd9ivadRC,Lipta,"['t-pop', 'thai pop']",58,524602,https://i.scdn.co/image/ab6761610000e5ebe2921fe54d34bddad803df6d
+2F8QVTDDHb8n0cwR9ftxFs,spotify:artist:2F8QVTDDHb8n0cwR9ftxFs,Q Flure,[],52,494,
+2FXC3k01G6Gw61bmprjgqS,spotify:artist:2FXC3k01G6Gw61bmprjgqS,Hozier,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",86,8002611,https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a
+2HPaUgqeutzr3jx5a9WyDV,spotify:artist:2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,"['r&b', 'rap', 'urban contemporary']",84,7432469,https://i.scdn.co/image/ab6761610000e5eb957320981e31e862bc2fb844
+2LIk90788K0zvyj2JJVwkJ,spotify:artist:2LIk90788K0zvyj2JJVwkJ,Jack Harlow,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",80,3952489,https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb
+2NRcG7E1j2sSi8vnUzCcpi,spotify:artist:2NRcG7E1j2sSi8vnUzCcpi,Quân A.P,['v-pop'],59,614323,https://i.scdn.co/image/ab6761610000e5eb2072677a48d16d8b22f9a0b6
+2SWWw5uB9cO5m7zJQZqwmr,spotify:artist:2SWWw5uB9cO5m7zJQZqwmr,BOWKYLION,"['t-pop', 'thai indie pop']",58,1256703,https://i.scdn.co/image/ab6761610000e5ebdcea2a36fee1a492f6cc7f3b
+2UHHfc0InrWSmUkiuss6f4,spotify:artist:2UHHfc0InrWSmUkiuss6f4,RPT JasonDilla,[],41,3402,https://i.scdn.co/image/ab6761610000e5ebf4a4f3c1c9dbeb98338e2a50
+2WzWSpOB41g3gb78Raj6RK,spotify:artist:2WzWSpOB41g3gb78Raj6RK,gins&melodies,"['pinoy hip hop', 'tagalog rap']",64,339545,https://i.scdn.co/image/ab6761610000e5eb6dbbc3b51629ebe0db4e8527
+2WzaAvm2bBCf4pEhyuDgCY,spotify:artist:2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",74,3789852,https://i.scdn.co/image/ab6761610000e5eb1da7ba1c178ab9f68d065197
+2XHTklRsNMOOQT56Zm3WS4,spotify:artist:2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,"['opm', 'pinoy reggae']",69,3672368,https://i.scdn.co/image/ab6761610000e5eb76ece97fbecb26ace087a952
+2XiaPu2j4nBMhF8pIlt6Bk,spotify:artist:2XiaPu2j4nBMhF8pIlt6Bk,AYLA's,['t-pop'],54,214002,https://i.scdn.co/image/ab6761610000e5eb06945dc201bbfd24c74bce7c
+2ZhUfT19cZKRi7sayQcEZH,spotify:artist:2ZhUfT19cZKRi7sayQcEZH,Luqman Faiz,['malaysian pop'],43,16162,https://i.scdn.co/image/ab6761610000e5ebbbd76b9cfcfc21260fde0a80
+2ZjO6APYelcHcLd2pWMx8x,spotify:artist:2ZjO6APYelcHcLd2pWMx8x,Badbies,[],47,231,
+2a727ekkPaUHk0bMifk7fj,spotify:artist:2a727ekkPaUHk0bMifk7fj,Billkin,['t-pop'],61,895966,https://i.scdn.co/image/ab6761610000e5ebaa69cfd6ff574ddea5e8fe52
+2aQnC3DbZB9GbauvhAw7ve,spotify:artist:2aQnC3DbZB9GbauvhAw7ve,AMEE,"['v-pop', 'vietnamese idol pop']",63,1399181,https://i.scdn.co/image/ab6761610000e5ebfd70279a04a9b3796e7dcd4d
+2auC28zjQyVTsiZKNgPRGs,spotify:artist:2auC28zjQyVTsiZKNgPRGs,RM,['k-rap'],77,17159856,https://i.scdn.co/image/ab6761610000e5eb847fe9bbfef3acf7981acd2a
+2dC1IBU9NOD9xsQJ5RE7j7,spotify:artist:2dC1IBU9NOD9xsQJ5RE7j7,Puppy,['viet chill rap'],53,12866,https://i.scdn.co/image/ab6761610000e5eb12b2ad3bacec1ca71265fba9
+2dyCbip3jAVmQNAs7Sg8Y9,spotify:artist:2dyCbip3jAVmQNAs7Sg8Y9,Vionita,['indonesian pop'],61,155249,https://i.scdn.co/image/ab6761610000e5eb1972467b259c6c2c7b44cdd5
+2elBjNSdBE2Y3f0j1mjrql,spotify:artist:2elBjNSdBE2Y3f0j1mjrql,Jay Chou,"['c-pop', 'mandopop', 'taiwan pop', 'zhongguo feng']",76,6240273,https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da
+2iDVt6mFbtbDEZG5ax0dTi,spotify:artist:2iDVt6mFbtbDEZG5ax0dTi,Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76,16454912,https://i.scdn.co/image/ab6761610000e5eb53462891ab7799f2934b568e
+2nSO7JYDbJrYbJmP39qUzj,spotify:artist:2nSO7JYDbJrYbJmP39qUzj,Binz,"['v-pop', 'vietnamese hip hop']",62,1145257,https://i.scdn.co/image/ab6761610000e5ebcbc6b072aec429273fdbd53b
+2rKtPYcwYmevNcaqzJOwvf,spotify:artist:2rKtPYcwYmevNcaqzJOwvf,MANBO,"['v-pop', 'vietnamese hip hop']",56,122733,https://i.scdn.co/image/ab6761610000e5ebf7c3ce38eb5312d02b8b94b1
+2uYWxilOVlUdk4oV9DvwqK,spotify:artist:2uYWxilOVlUdk4oV9DvwqK,Mitski,"['brooklyn indie', 'pov: indie']",84,9204221,https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13
+2xe3fpDD81re4J0NN3S8LV,spotify:artist:2xe3fpDD81re4J0NN3S8LV,GTK,['thai pop rap'],52,94348,https://i.scdn.co/image/ab67616d0000b273980878002fe551cf96c670bf
+2xsBUJ327d3iC1LvL5hYrQ,spotify:artist:2xsBUJ327d3iC1LvL5hYrQ,YEW,"['t-pop', 'thai indie rock']",57,427668,https://i.scdn.co/image/ab6761610000e5eb4f3d625f5a25ab7ea6906b28
+30b9WulBM8sFuBo17nNq9c,spotify:artist:30b9WulBM8sFuBo17nNq9c,G-DRAGON,"['k-pop', 'k-rap']",66,2908890,https://i.scdn.co/image/ab6761610000e5eb99234fca18ba6bc8e75620ca
+30eFAXoU2kTjJPf2cq80B8,spotify:artist:30eFAXoU2kTjJPf2cq80B8,WEAN,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",62,340992,https://i.scdn.co/image/ab6761610000e5eb24b6a2cff3114e58882c5aaf
+327ipGIr9bD3MkLb2eucqC,spotify:artist:327ipGIr9bD3MkLb2eucqC,Suara Kayu,['indonesian pop'],63,227013,https://i.scdn.co/image/ab6761610000e5ebd46883d6e4f535b2a917d436
+36cgvBn0aadzOijnjjwqMN,spotify:artist:36cgvBn0aadzOijnjjwqMN,ILLIT,['5th gen k-pop'],76,1654288,https://i.scdn.co/image/ab6761610000e5eb32863b8dca4574c09e4b9295
+3AQRLZ9PuTAozP28Skbq8V,spotify:artist:3AQRLZ9PuTAozP28Skbq8V,The Script,"['celtic rock', 'pop']",78,8257254,https://i.scdn.co/image/ab6761610000e5eb4a0b21cd87d8a8752fd32e94
+3C1ER0cuXc8dLtaI8RvLI6,spotify:artist:3C1ER0cuXc8dLtaI8RvLI6,Eliza Maturan,['pinoy singer-songwriter'],61,40143,https://i.scdn.co/image/ab6761610000e5eb8742d4ce7620f557d9081f05
+3DHOtJqv0Bw65ENlK4FiSF,spotify:artist:3DHOtJqv0Bw65ENlK4FiSF,Yovie & Nuno,"['indonesian pop', 'indonesian pop rock']",70,1820949,https://i.scdn.co/image/ab6761610000e5ebd6da9160b31ec1bad6fc56ad
+3E0b68wCGYihuHBtlasfm9,spotify:artist:3E0b68wCGYihuHBtlasfm9,Lâm Bảo Ngọc,[],54,18842,https://i.scdn.co/image/ab6761610000e5eb6c3b47777655c69d0f3fb627
+3JWIaDWHJq11w1xPqJStEv,spotify:artist:3JWIaDWHJq11w1xPqJStEv,Hustlang Robber,"['vietnamese hip hop', 'vietnamese melodic rap', 'vietnamese trap']",48,95366,https://i.scdn.co/image/ab6761610000e5eba95938560cec466e19c4734d
+3JsHnjpbhX4SnySpvpa9DK,spotify:artist:3JsHnjpbhX4SnySpvpa9DK,V,"['j-division', 'korean ost']",83,18961859,https://i.scdn.co/image/ab6761610000e5eb8e7d00d3aae87cf8fc6946e2
+3Ld1g6LjfR2ILDB6SD8aJV,spotify:artist:3Ld1g6LjfR2ILDB6SD8aJV,BlackHeart,['thai viral pop'],59,96830,https://i.scdn.co/image/ab6761610000e5eb4eb43b6949942b5c4e56ca3f
+3MdXrJWsbVzdn6fe5JYkSQ,spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ,Latto,['trap queen'],80,1808701,https://i.scdn.co/image/ab6761610000e5eba11b0b5c37498f5dddb1bd7b
+3Q5Qep7ytrjVleNnMnntgQ,spotify:artist:3Q5Qep7ytrjVleNnMnntgQ,TEN,['k-pop'],64,744962,https://i.scdn.co/image/ab6761610000e5eb120c180b98729c6448e06703
+3XrI2jzqgzcCwiYFuLKBbQ,spotify:artist:3XrI2jzqgzcCwiYFuLKBbQ,Hannah Delisha,['malaysian pop'],41,18617,https://i.scdn.co/image/ab6761610000e5ebc4c59fcec9c6578484194a0c
+3Y7RZ31TRPVadSFVy1o8os,spotify:artist:3Y7RZ31TRPVadSFVy1o8os,H.E.R.,"['r&b', 'rap']",77,7942477,https://i.scdn.co/image/ab6761610000e5eb417db49cde3ed1c5a65e3514
+3Y7gOnKYWfQlEdgXag0Z6W,spotify:artist:3Y7gOnKYWfQlEdgXag0Z6W,Regina Song,[],61,71522,https://i.scdn.co/image/ab6761610000e5ebfc71aaf9720b4fde94afdc92
+3ZUdKB3VGo26BxRSmnv5n2,spotify:artist:3ZUdKB3VGo26BxRSmnv5n2,SPF,"['t-pop', 'thai pop']",47,85255,https://i.scdn.co/image/ab67616d0000b2735fed9088f057bcec9ef9f25a
+3c0gDdb9lhnHGFtP4prQpn,spotify:artist:3c0gDdb9lhnHGFtP4prQpn,KATSEYE,['5th gen k-pop'],75,637787,https://i.scdn.co/image/ab6761610000e5eb031e8e2a9c4893810a02f863
+3d0hhzHPK0jA5mKTeFIZc5,spotify:artist:3d0hhzHPK0jA5mKTeFIZc5,Realest Cram,[],65,627715,https://i.scdn.co/image/ab6761610000e5eb50457bf2672b3cf6b5ec7daf
+3diftVOq7aEIebXKkC34oR,spotify:artist:3diftVOq7aEIebXKkC34oR,tlinh,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",68,1185984,https://i.scdn.co/image/ab6761610000e5eb230e62752ca87da1d85d0445
+3eVa5w3URK5duf6eyVDbu9,spotify:artist:3eVa5w3URK5duf6eyVDbu9,ROSÉ,['k-pop'],84,7702992,https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf
+3moR9d0X97NAtZRhHWOta5,spotify:artist:3moR9d0X97NAtZRhHWOta5,Saran,"['thai hip hop', 'thai trap']",67,2151477,https://i.scdn.co/image/ab6761610000e5eb63e937da8c564444f3d9a2f3
+3oD2yI1g6aT3KawHD8ZYaU,spotify:artist:3oD2yI1g6aT3KawHD8ZYaU,TeuYungBoy,[],52,8830,https://i.scdn.co/image/ab6761610000e5eba893ad982483ec2161750c7c
+3pc0bOVB5whxmD50W79wwO,spotify:artist:3pc0bOVB5whxmD50W79wwO,keshi,['chill r&b'],79,3774944,https://i.scdn.co/image/ab6761610000e5ebe6f96cf550aeaf3a51d6a0bb
+3rSAej8VUifF02zpsGjsRZ,spotify:artist:3rSAej8VUifF02zpsGjsRZ,DONAL,[],50,582,https://i.scdn.co/image/ab6761610000e5ebdaf49778344410bbdd1f38fd
+3tMTXQyRrPmMyHv5SoC0TV,spotify:artist:3tMTXQyRrPmMyHv5SoC0TV,Juicy Luicy,['indonesian pop'],80,1522131,https://i.scdn.co/image/ab6761610000e5eb8a7372e657292fbcbde93caf
+3uSnvyMAFJTm7XkZJFo0xP,spotify:artist:3uSnvyMAFJTm7XkZJFo0xP,Insomniacks,['malaysian pop'],60,350020,https://i.scdn.co/image/ab6761610000e5eb33cb646a442cc31983eddf99
+3wOsYKZM0zcKNasi3I7fP4,spotify:artist:3wOsYKZM0zcKNasi3I7fP4,Mahalini,['indonesian pop'],77,14439350,https://i.scdn.co/image/ab6761610000e5eb1264a169b9cdf4acaeab5e8f
+3wbCeEPAW6po7J46netxMT,spotify:artist:3wbCeEPAW6po7J46netxMT,Up Dharma Down,['opm'],67,1314930,https://i.scdn.co/image/ab6761610000e5eb0d9af87a78a52846b4706b28
+3y6Lfjkrdn5TgkbgDxbpvM,spotify:artist:3y6Lfjkrdn5TgkbgDxbpvM,marzuz,"['rock viet', 'viet chill rap']",54,13567,https://i.scdn.co/image/ab6761610000e5eb0559efc622ebbe844fa38b81
+3z0IVhtuFvt9VYUZGT98PU,spotify:artist:3z0IVhtuFvt9VYUZGT98PU,Jay R,['opm'],68,241786,https://i.scdn.co/image/ab6761610000e5ebb96d835bab47cdf77a652a6e
+40JnMfFlpwqBnWitkL96g4,spotify:artist:40JnMfFlpwqBnWitkL96g4,Isaac,['v-pop'],58,162438,https://i.scdn.co/image/ab6761610000e5ebcb44ea77e9b885b05ea60e8a
+45dkTj5sMRSjrmBSBeiHym,spotify:artist:45dkTj5sMRSjrmBSBeiHym,Tate McRae,['pop'],85,6125725,https://i.scdn.co/image/ab6761610000e5ebe61da00cc3795e12aa732516
+47z98pKd71yIbgXwe9LPVC,spotify:artist:47z98pKd71yIbgXwe9LPVC,Bernadya,[],83,2139518,https://i.scdn.co/image/ab6761610000e5eb6d1dbc1a4a286b1ee9d40163
+4AK6F7OLvEQ5QYCBNiQWHq,spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",91,37315413,https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8
+4APrfmUo8KRrjCVuyoKvwY,spotify:artist:4APrfmUo8KRrjCVuyoKvwY,Olew,['v-pop'],50,75306,https://i.scdn.co/image/ab6761610000e5ebfca028b811a0296ef4e6336b
+4AhHkaGz7W2bKKJK90IaV2,spotify:artist:4AhHkaGz7W2bKKJK90IaV2,Batas Senja,['indonesian folk'],64,283093,https://i.scdn.co/image/ab6761610000e5ebabf22cccfa6585c7d9537555
+4G5OlxtrOm9ADmu3VZgFbG,spotify:artist:4G5OlxtrOm9ADmu3VZgFbG,MEYOU,"['t-pop', 'thai hip hop', 'thai indie pop']",58,696884,https://i.scdn.co/image/ab6761610000e5ebc5a1cf78526be973401ec79c
+4IWBUUAFIplrNtaOHcJPRM,spotify:artist:4IWBUUAFIplrNtaOHcJPRM,James Arthur,"['pop', 'talent show', 'uk pop']",81,18863790,https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b
+4KPyQxL1zqEiBcTwW6c9HE,spotify:artist:4KPyQxL1zqEiBcTwW6c9HE,Dương Domic,[],63,118848,https://i.scdn.co/image/ab6761610000e5eb91e368493080d197e5a0f478
+4KjqrvqKO5fbI5yDR5yzny,spotify:artist:4KjqrvqKO5fbI5yDR5yzny,First Anuwat,['t-pop'],52,240967,https://i.scdn.co/image/ab6761610000e5ebf1ce57b000f04102aa1f73c7
+4LT250S0fAe4cYqPbRk56m,spotify:artist:4LT250S0fAe4cYqPbRk56m,Cean Jr.,"['opm', 'pinoy hip hop', 'pinoy r&b']",59,141844,https://i.scdn.co/image/ab6761610000e5eba6d27e3ccd0bbda0f7d01f74
+4RPhZ2g5GYff0hKNBlZKXh,spotify:artist:4RPhZ2g5GYff0hKNBlZKXh,Ali Hoàng Dương,['v-pop'],59,54133,https://i.scdn.co/image/ab6761610000e5ebede0c85df5cdfafc916d1699
+4Rxn7Im3LGfyRkY2FlHhWi,spotify:artist:4Rxn7Im3LGfyRkY2FlHhWi,Nick Jonas,"['dance pop', 'pop']",67,10032383,https://i.scdn.co/image/ab6761610000e5eb780447f701c671015c2109a0
+4SpbR6yFEvexJuaBpgAU5p,spotify:artist:4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,['k-pop girl group'],81,6005468,https://i.scdn.co/image/ab6761610000e5ebd7d7064b17d00c6f8755eae6
+4TEK9tIkcoxib4GxT3O4ky,spotify:artist:4TEK9tIkcoxib4GxT3O4ky,KISS OF LIFE,"['5th gen k-pop', 'k-pop girl group']",75,1444323,https://i.scdn.co/image/ab6761610000e5ebbf250c4fdc18bb30560fceb5
+4V8LLVI7PbaPR0K2TGSxFF,spotify:artist:4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator","['hip hop', 'rap']",94,17396819,https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52
+4Xz2dDcMF1DDfwFcr8Xa5P,spotify:artist:4Xz2dDcMF1DDfwFcr8Xa5P,Ngắn,['vietnamese melodic rap'],44,25189,https://i.scdn.co/image/ab6761610000e5ebe438c128b79690d861e46938
+4bAgr9zaF0bpzVGHdHuf0f,spotify:artist:4bAgr9zaF0bpzVGHdHuf0f,Virgoun,"['indonesian pop', 'malaysian pop']",70,11074232,https://i.scdn.co/image/ab6761610000e5eba99ec2b3bd22a84739aac218
+4bPYvyUn1mWwUwIW57oST2,spotify:artist:4bPYvyUn1mWwUwIW57oST2,Emcee L (Da LAB),"['v-pop', 'vietnamese hip hop']",54,183221,https://i.scdn.co/image/ab6761610000e5eb92dc4a2cbffbddb59f825fe0
+4cLYlDISnWaErAitB8kRph,spotify:artist:4cLYlDISnWaErAitB8kRph,Quang Trung,"['v-pop', 'viet lo-fi']",57,38212,https://i.scdn.co/image/ab67616d0000b273f53327cf9b7f7c17c1b55743
+4fVYwG8RsbJsREFFniszhf,spotify:artist:4fVYwG8RsbJsREFFniszhf,Noh Salleh,['malaysian indie'],54,126730,https://i.scdn.co/image/ab6761610000e5eb25c47b238f28bd0120914451
+4fg8aMZ23d2bxKz7r2vt9v,spotify:artist:4fg8aMZ23d2bxKz7r2vt9v,Negav,"['v-pop', 'vietnamese hip hop']",65,155889,https://i.scdn.co/image/ab6761610000e5eb9fa9217f87efc8ad1e386ba3
+4gvjmrtzydbMpyJaXUtwvP,spotify:artist:4gvjmrtzydbMpyJaXUtwvP,Addison Rae,['social media pop'],76,457284,https://i.scdn.co/image/ab6761610000e5ebe7b11d095987ac3033d9c944
+4gzpq5DPGxSnKTe4SA8HAU,spotify:artist:4gzpq5DPGxSnKTe4SA8HAU,Coldplay,"['permanent wave', 'pop']",92,54439131,https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb
+4k9wp4ipHdA1bu1T4x1ZTG,spotify:artist:4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,"['opm', 'p-pop', 'pinoy trap']",65,3190996,https://i.scdn.co/image/ab6761610000e5eba3f7f15e82350aaa8f760989
+4qPhnQfRgdgcZEdXgENOnr,spotify:artist:4qPhnQfRgdgcZEdXgENOnr,Janine Berdin,['opm'],61,111586,https://i.scdn.co/image/ab6761610000e5eb8c3f8649ff3aebf3f8d18854
+4sEWznAKWWNcicTuLxzb6d,spotify:artist:4sEWznAKWWNcicTuLxzb6d,Nidji,"['indonesian pop', 'indonesian pop rock']",69,1738002,https://i.scdn.co/image/ab6761610000e5ebcac2f83d8a2eac8a036d0efe
+4tuJ0bMpJh08umKkEXKUI5,spotify:artist:4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,['alt z'],89,2909157,https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920
+4ubEZ6sMsrrbQChueyouCC,spotify:artist:4ubEZ6sMsrrbQChueyouCC,Hivi!,['indonesian pop'],71,2178642,https://i.scdn.co/image/ab6761610000e5eb576d29c38e75b876e1132923
+4wZ6awunqaaVLl5j0WpDFu,spotify:artist:4wZ6awunqaaVLl5j0WpDFu,"ANH TRAI ""SAY HI""",[],72,278651,https://i.scdn.co/image/ab6761610000e5eb97d758a5602772c33428697e
+4zpGxqF6oI1h3f6Md2v42T,spotify:artist:4zpGxqF6oI1h3f6Md2v42T,Hev Abi,[],76,3340765,https://i.scdn.co/image/ab6761610000e5eb7542a2e21a82c4081b647d35
+51kyrUsAVqUBcoDEMFkX12,spotify:artist:51kyrUsAVqUBcoDEMFkX12,Hindia,['indonesian pop'],77,4491264,https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92
+52VcFYcq5kJEaRYgy58ouW,spotify:artist:52VcFYcq5kJEaRYgy58ouW,Paper Planes,"['t-pop', 'thai rock']",55,141038,https://i.scdn.co/image/ab6761610000e5eb4d4ddc79e3aa50a3e55b262d
+53tuXn4uXfDqZYhAFMxZdt,spotify:artist:53tuXn4uXfDqZYhAFMxZdt,Nyoman Paul,[],64,81128,https://i.scdn.co/image/ab6761610000e5eb3e9c99f3905f734a5943b32a
+57g2v7gJZepcwsuwssIfZs,spotify:artist:57g2v7gJZepcwsuwssIfZs,Vũ.,"['indie viet', 'rock viet', 'v-pop', 'vietnamese singer-songwriter']",67,2181512,https://i.scdn.co/image/ab6761610000e5eb2d7150aa7e90e9a85610ab3d
+57yOAX6apIrclpBG736Uy2,spotify:artist:57yOAX6apIrclpBG736Uy2,CK YG,"['pinoy hip hop', 'tagalog rap']",62,403652,https://i.scdn.co/image/ab6761610000e5ebd993c2687a7df469c9e485ef
+5GVk1KCKa1tdHRev4bMw7V,spotify:artist:5GVk1KCKa1tdHRev4bMw7V,NOBITA,['opm'],62,1954471,https://i.scdn.co/image/ab6761610000e5ebffc2e05704ed9a281f1a1d84
+5HZtdKfC4xU0wvhEyYDWiY,spotify:artist:5HZtdKfC4xU0wvhEyYDWiY,HIEUTHUHAI,"['v-pop', 'vietnamese hip hop']",70,1721335,https://i.scdn.co/image/ab6761610000e5ebe1cbc9e7ba8fbc5d7738ea51
+5IMXUzbeAyevQmvtOhXQGi,spotify:artist:5IMXUzbeAyevQmvtOhXQGi,DOYOUNG,['k-pop'],57,811815,https://i.scdn.co/image/ab6761610000e5ebf1f948c02481367899fdbd65
+5IjwAAk3njAeiFY1InInsn,spotify:artist:5IjwAAk3njAeiFY1InInsn,Misellia,['indonesian pop'],62,371724,https://i.scdn.co/image/ab6761610000e5eb249c300482b39f5281fac30d
+5Kh0ta0UY4uJ4g2CIdq9V9,spotify:artist:5Kh0ta0UY4uJ4g2CIdq9V9,Phương Ly,['v-pop'],57,550746,https://i.scdn.co/image/ab6761610000e5eb98e5b6fa1349f9b48129ce98
+5L1lO4eRHmJ7a0Q6csE5cT,spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT,LISA,['k-pop'],84,9404725,https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb
+5LcNPa8f8bRmZqELgoRFkN,spotify:artist:5LcNPa8f8bRmZqELgoRFkN,Raim Laode,['indonesian pop'],62,967846,https://i.scdn.co/image/ab6761610000e5ebc97ccd38c2bfa905e32cad0a
+5M3ffmRiOX9Q8Y4jNeR5wu,spotify:artist:5M3ffmRiOX9Q8Y4jNeR5wu,Wren Evans,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",60,548136,https://i.scdn.co/image/ab6761610000e5eb10e658dffbc09c792ad3969c
+5Plk4JdCzMxhAHSRTEsxJp,spotify:artist:5Plk4JdCzMxhAHSRTEsxJp,Ernie Zakri,['malaysian pop'],64,181116,https://i.scdn.co/image/ab6761610000e5ebd4e158ec0916e15687ca82e0
+5RQZVhw9dwZYc10QQfNMf1,spotify:artist:5RQZVhw9dwZYc10QQfNMf1,JOEY PHUWASIT,[],52,466975,https://i.scdn.co/image/ab6761610000e5ebc404ff2c1b8d830c3649da72
+5RmQ8k4l3HZ8JoPb4mNsML,spotify:artist:5RmQ8k4l3HZ8JoPb4mNsML,Agust D,['k-rap'],77,14931929,https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b
+5Xn0cJrrcslCWCzPXNTy54,spotify:artist:5Xn0cJrrcslCWCzPXNTy54,PiaLinh,[],51,3415,https://i.scdn.co/image/ab6761610000e5ebc0d268a104ab41fd588cfea7
+5dfZ5uSmzR7VQK0udbAVpf,spotify:artist:5dfZ5uSmzR7VQK0udbAVpf,Sơn Tùng M-TP,"['v-pop', 'vietnamese idol pop', 'vietnamese melodic rap']",64,6014784,https://i.scdn.co/image/ab6761610000e5eb5a79a6ca8c60e4ec1440be53
+5fEQLwq1BWWQNR8GzhOIvi,spotify:artist:5fEQLwq1BWWQNR8GzhOIvi,Eric Chou,['mandopop'],66,1562068,https://i.scdn.co/image/ab6761610000e5eb32cabef34602bad95decc49e
+5fS7aONqrIhiw6YzgKVOsd,spotify:artist:5fS7aONqrIhiw6YzgKVOsd,Judika,['indonesian pop'],67,5727407,https://i.scdn.co/image/ab6761610000e5eb7ee542870d73b28e7bd50937
+5ghOUzxpnQmnPQDwC1thIz,spotify:artist:5ghOUzxpnQmnPQDwC1thIz,ASIA7,[],51,17143,https://i.scdn.co/image/ab6761610000e5ebf319da7db1336e3d0e7b12d5
+5jTFNkoZebPnX90CbB3F2A,spotify:artist:5jTFNkoZebPnX90CbB3F2A,MONO,['v-pop'],54,835488,https://i.scdn.co/image/ab6761610000e5ebc7370f8d6777973a9ca59051
+5kU6FKYW7YBB2ikPQnk8cS,spotify:artist:5kU6FKYW7YBB2ikPQnk8cS,BUS,"['t-pop', 't-pop boy group']",61,281926,https://i.scdn.co/image/ab6761610000e5ebdc652a44d9c5e03eb687fa2f
+5lAfakPZgxFKgiJD6xAF1G,spotify:artist:5lAfakPZgxFKgiJD6xAF1G,Orange,['v-pop'],59,492965,https://i.scdn.co/image/ab6761610000e5ebcd592c3253fe8d46ad958cfb
+5mPbBOU2KMFfStepNZ027p,spotify:artist:5mPbBOU2KMFfStepNZ027p,OgeNus,[],51,42298,https://i.scdn.co/image/ab6761610000e5ebed098d0b155ed1eb44fe974d
+5p9HO3XC5P3BLxJs5Mtrhm,spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm,Djo,"['pov: indie', 'psychedelic pop']",76,1594198,https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69
+5pokGZ1K9Hr6etaKPDxSG8,spotify:artist:5pokGZ1K9Hr6etaKPDxSG8,THE TOYS,['t-pop'],62,1458036,https://i.scdn.co/image/ab6761610000e5eb3edf0563fc7413d0c62fd9a7
+5pyjjs1k7keBTqwhkVs7MA,spotify:artist:5pyjjs1k7keBTqwhkVs7MA,Trần Đăng Dương,[],52,50,
+5t5FqBwTcgKTaWmfEbwQY9,spotify:artist:5t5FqBwTcgKTaWmfEbwQY9,ENHYPEN,"['anime', 'k-pop boy group']",81,10264462,https://i.scdn.co/image/ab6761610000e5eb1ddfd74a1c2dcaa5f833b61d
+5ulyphh5uJrH4Gb1JpSMkV,spotify:artist:5ulyphh5uJrH4Gb1JpSMkV,HURRYKNG,['vietnamese hip hop'],62,138888,https://i.scdn.co/image/ab6761610000e5eb3b7998f162dea56d0961bd97
+5vTG3EyFrsARtIGDWZNRzu,spotify:artist:5vTG3EyFrsARtIGDWZNRzu,Hal,['indonesian folk'],66,438164,https://i.scdn.co/image/ab6761610000e5eb8bb201d0f1db30219c4ab3ee
+5vV3bFXnN6D6N3Nj4xRvaV,spotify:artist:5vV3bFXnN6D6N3Nj4xRvaV,Jin,['k-pop'],80,8410686,https://i.scdn.co/image/ab6761610000e5ebca4f165e62fbf5ab5a3750ba
+5vzCTzMec4uL6JCNkOFcZ2,spotify:artist:5vzCTzMec4uL6JCNkOFcZ2,Pondering,['thai hip hop'],56,200309,https://i.scdn.co/image/ab6761610000e5eb7f198473cf703adf47549ace
+5xY6E5PMZNtz9jDvxTRiGI,spotify:artist:5xY6E5PMZNtz9jDvxTRiGI,Dangrangto,['viet chill rap'],61,64006,https://i.scdn.co/image/ab6761610000e5eb1fd256e398422802c8261ab4
+5xq3BK55BJmutN0X7eTyQB,spotify:artist:5xq3BK55BJmutN0X7eTyQB,Jeff Satur,['t-pop'],64,1150685,https://i.scdn.co/image/ab6761610000e5ebc93ab532457d9aef9a893595
+5y8tKLUfMvliMe8IKamR32,spotify:artist:5y8tKLUfMvliMe8IKamR32,d4vd,"['bedroom pop', 'bedroom r&b']",80,3095803,https://i.scdn.co/image/ab6761610000e5ebad447187a35f422307e88ad3
+5zSQoNQ9o2dnT1LPTzDxg7,spotify:artist:5zSQoNQ9o2dnT1LPTzDxg7,Mirrr,"['t-pop', 'thai indie pop']",60,271641,https://i.scdn.co/image/ab6761610000e5ebe407c548cac958b0b6927b10
+5zT1Ku9mzzl6RW5y4z0hUK,spotify:artist:5zT1Ku9mzzl6RW5y4z0hUK,Minh Huy,['v-pop'],53,25123,https://i.scdn.co/image/ab6761610000e5eb90b464e6a04fe5034b31be89
+611ajYp7fMbkU5CYF08tje,spotify:artist:611ajYp7fMbkU5CYF08tje,Audy,['indonesian pop'],63,421609,https://i.scdn.co/image/ab6761610000e5eb57e03ee8e4a5acd8415f8cd3
+61hVICScGPBw0WmGPqWVRE,spotify:artist:61hVICScGPBw0WmGPqWVRE,เล็กสเร็น,[],48,7318,https://i.scdn.co/image/ab67616d0000b2733741a4314abb369b8c5c4888
+61nn6nOoLWjVC1ER2qFAvN,spotify:artist:61nn6nOoLWjVC1ER2qFAvN,Cup of Joe,"['opm', 'pinoy city pop']",72,1324885,https://i.scdn.co/image/ab6761610000e5ebd3eacbbd91f1be9cfb910f93
+61ydMyohF67xBZmWSPA3YQ,spotify:artist:61ydMyohF67xBZmWSPA3YQ,Chọn gì? Chọn đi!,[],39,215,https://i.scdn.co/image/ab6761610000e5eb3f38e02ec18e5f9accbd09d6
+62D1qvKkvUCvXEtY1xwRfo,spotify:artist:62D1qvKkvUCvXEtY1xwRfo,Anh Tú Atus,['v-pop'],58,102081,https://i.scdn.co/image/ab6761610000e5eb8f47b8f7d070919fff02059b
+66CXWjxzNUsdJxJ2JdwvnR,spotify:artist:66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,['pop'],92,100803893,https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0
+66NmU5epI0ONGmdCRbLpmW,spotify:artist:66NmU5epI0ONGmdCRbLpmW,Feby Putri,['indonesian pop'],71,3688951,https://i.scdn.co/image/ab6761610000e5eb4f758d9f221784a05343389e
+699OTQXzgjhIYAHMy9RyPD,spotify:artist:699OTQXzgjhIYAHMy9RyPD,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",90,12133236,https://i.scdn.co/image/ab6761610000e5ebb3d8cd43a716a031fe7e1ab6
+6AvnL2gWjNYs1hRVJx4huK,spotify:artist:6AvnL2gWjNYs1hRVJx4huK,Maki,['opm'],72,789860,https://i.scdn.co/image/ab6761610000e5eb41e8ef2382d2c51b87013187
+6EybZ5zwPNEtEngfrEMevN,spotify:artist:6EybZ5zwPNEtEngfrEMevN,JSOL,['v-pop'],61,128404,https://i.scdn.co/image/ab6761610000e5eba3005cf671ed2e6e6841e14a
+6FTLayBxjkQeanFdUusk1I,spotify:artist:6FTLayBxjkQeanFdUusk1I,Fabio Asher,['indonesian pop'],68,1379814,https://i.scdn.co/image/ab6761610000e5eb846845655cdc9e63b75103f0
+6Ff53KvcvAj5U7Z1vojB5o,spotify:artist:6Ff53KvcvAj5U7Z1vojB5o,*NSYNC,"['boy band', 'dance pop', 'pop']",77,2706708,https://i.scdn.co/image/ab6761610000e5eb9414ef07d0ca697726912df1
+6HEMZkIMQAPnd36iLsUlTx,spotify:artist:6HEMZkIMQAPnd36iLsUlTx,PUN,['t-pop'],65,274294,https://i.scdn.co/image/ab6761610000e5eb256674211490209c3fcf93e7
+6HaGTQPmzraVmaVxvz6EUc,spotify:artist:6HaGTQPmzraVmaVxvz6EUc,Jung Kook,['k-pop'],87,16322286,https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960
+6JrR3zrG0NQiXb9N9XSyGb,spotify:artist:6JrR3zrG0NQiXb9N9XSyGb,Cocktail,"['t-pop', 'thai pop', 'thai rock']",62,1503974,https://i.scdn.co/image/ab6761610000e5ebd7706f75460a24f8fd1132df
+6NF9Oa4ThQWCj6mogFSrVD,spotify:artist:6NF9Oa4ThQWCj6mogFSrVD,W/N,"['indie viet', 'v-pop']",61,1423238,https://i.scdn.co/image/ab6761610000e5eb316c0f0bc6cf3a29c203ab1e
+6O74knDqdv3XaWtkII7Xjp,spotify:artist:6O74knDqdv3XaWtkII7Xjp,Boyz II Men,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']",69,3232464,https://i.scdn.co/image/c8b0d67be35852171d04d7309c2cfe1992a8a4eb
+6RHTUrRF63xao58xh9FXYJ,spotify:artist:6RHTUrRF63xao58xh9FXYJ,IVE,['k-pop girl group'],73,4738277,https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f
+6RoZip1Hn7ahR6MjzBKKLK,spotify:artist:6RoZip1Hn7ahR6MjzBKKLK,Mawar de Jongh,['indonesian pop'],63,839208,https://i.scdn.co/image/ab6761610000e5eb075943044f6d9c953eb0c70b
+6SKusTjOAPsTZ6kareKQdm,spotify:artist:6SKusTjOAPsTZ6kareKQdm,TAEYONG,['k-pop'],61,1381675,https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a
+6Sv2jkzH9sWQjwghW5ArMG,spotify:artist:6Sv2jkzH9sWQjwghW5ArMG,Lyodra,['indonesian pop'],74,5543759,https://i.scdn.co/image/ab6761610000e5ebf089d00e486c86a63e505903
+6TITnFVRcl0AcZ4syE7Toe,spotify:artist:6TITnFVRcl0AcZ4syE7Toe,Low G,['vietnamese hip hop'],67,1476596,https://i.scdn.co/image/ab6761610000e5eb655c4a2a98366c2a276f6e9b
+6UgERnTHmjk3qXM9x5vzyO,spotify:artist:6UgERnTHmjk3qXM9x5vzyO,Nadhif Basalamah,['indonesian r&b'],65,1138841,https://i.scdn.co/image/ab6761610000e5eb0893859c6541b0a6bc9aeec3
+6V1SwiosQqf5XvmoTMCGa9,spotify:artist:6V1SwiosQqf5XvmoTMCGa9,Dear Jane,['cantopop'],57,257795,https://i.scdn.co/image/ab6761610000e5eb61925c6e018eaf74a606ed26
+6X28gNASnalAWseUA8uI4X,spotify:artist:6X28gNASnalAWseUA8uI4X,Adrian Khalif,"['indonesian hip hop', 'indonesian pop']",68,63753,https://i.scdn.co/image/ab6761610000e5ebaacec2a8c9876f5b3e964ab6
+6YPfs6tdZXvnlzgZNU3SYT,spotify:artist:6YPfs6tdZXvnlzgZNU3SYT,Dudy Oris,['indonesian pop'],68,130997,https://i.scdn.co/image/ab6761610000e5ebecfcf46a0b101c42866979bf
+6YVMFz59CuY7ngCxTxjpxE,spotify:artist:6YVMFz59CuY7ngCxTxjpxE,aespa,['k-pop girl group'],84,6904299,https://i.scdn.co/image/ab6761610000e5ebf7a1090ad3a35a34fc0ecb57
+6chmC6o0wvACYVGTITw3Pz,spotify:artist:6chmC6o0wvACYVGTITw3Pz,NONT TANONT,['t-pop'],63,1348702,https://i.scdn.co/image/ab6761610000e5eba90ea2bdb4432288e0eae09c
+6d0dLenjy5CnR5ZMn2agiV,spotify:artist:6d0dLenjy5CnR5ZMn2agiV,GREY D,['v-pop'],61,381838,https://i.scdn.co/image/ab6761610000e5ebd23b0ac7f33678be5753e1f5
+6fOqdhRNsMQqtwRwgo3NUv,spotify:artist:6fOqdhRNsMQqtwRwgo3NUv,Firdhaus,['malaysian mandopop'],64,85389,https://i.scdn.co/image/ab6761610000e5eb6f9e419c4ae583483afcd152
+6hnfLIkvDl6pjlAe1YRGXY,spotify:artist:6hnfLIkvDl6pjlAe1YRGXY,Bon Nghiêm,['viet chill rap'],53,12603,https://i.scdn.co/image/ab6761610000e5ebef9647ce73755bfd671de9db
+6ltzsmQQbmdoHHbLZ4ZN25,spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25,Lord Huron,"['indie folk', 'stomp and holler']",78,1755100,https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10
+6qqNVTkY8uBg9cP3Jd7DAH,spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,"['art pop', 'pop']",96,101620105,https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da
+6rTxLeff3t3rivZ3rabRpw,spotify:artist:6rTxLeff3t3rivZ3rabRpw,Robledo Timido,[],64,31997,https://i.scdn.co/image/ab6761610000e5eb7dc8358b1a47d51dbe2914f9
+6zO1dZ40fTZ5hY9NnnRJSk,spotify:artist:6zO1dZ40fTZ5hY9NnnRJSk,yung kai,[],65,119722,https://i.scdn.co/image/ab6761610000e5ebd9b92b78e9ce3e20c498c732
+6zUWZmyi5MLOEynQ5wCI5f,spotify:artist:6zUWZmyi5MLOEynQ5wCI5f,Da LAB,"['indie viet', 'v-pop', 'vietnamese hip hop']",63,1073958,https://i.scdn.co/image/ab6761610000e5eb62c092ca08054a8ce883ef7e
+70NcAr4ZtA3FAqU16iQZSb,spotify:artist:70NcAr4ZtA3FAqU16iQZSb,Dhruv,['nyc pop'],70,705090,https://i.scdn.co/image/ab6761610000e5eb32f3f1833279444356c71e4d
+73M9RjjrrKjXnf6Is6hNdg,spotify:artist:73M9RjjrrKjXnf6Is6hNdg,Anatomy Rabbit,"['t-pop', 'thai folk', 'thai indie pop']",56,498973,https://i.scdn.co/image/ab6761610000e5eb33d3be3e296e0c4fc25a1c2a
+74KM79TiuVKeVCqs8QtB0B,spotify:artist:74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,['pop'],95,14426760,https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae
+7Cp2hGcriAaDUAWpXnSEwm,spotify:artist:7Cp2hGcriAaDUAWpXnSEwm,buitruonglinh,"['indie viet', 'v-pop']",57,467597,https://i.scdn.co/image/ab6761610000e5eb5b724614e967f700a802e058
+7GlBOeep6PqTfFi59PTUUN,spotify:artist:7GlBOeep6PqTfFi59PTUUN,Chappell Roan,['indie pop'],89,3739068,https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee
+7Gy1PxqrgsiqWF6JNYPHeB,spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB,.Feast,['indonesian indie'],69,790697,https://i.scdn.co/image/ab6761610000e5eb16f030ca05d4d917cdc2eb5e
+7Ln5yumFjHCkeZ8bAzHUcp,spotify:artist:7Ln5yumFjHCkeZ8bAzHUcp,Yovie Widianto,['indonesian pop'],68,352636,https://i.scdn.co/image/ab6761610000e5eb072f30c074f6dd7aff4b15ac
+7Ln80lUS6He07XvHI8qqHH,spotify:artist:7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,27162224,https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f
+7LvDTuFCBv08xm6u1pOMK0,spotify:artist:7LvDTuFCBv08xm6u1pOMK0,TJ Monterde,"['cdo indie', 'opm', 'pinoy singer-songwriter']",73,3183803,https://i.scdn.co/image/ab6761610000e5eb262b69fed44e0ee1219d92d5
+7dFzqx2qyelGPiBKmdSEOT,spotify:artist:7dFzqx2qyelGPiBKmdSEOT,Rob Deniel,"['opm', 'p-pop', 'pinoy singer-songwriter']",65,842061,https://i.scdn.co/image/ab6761610000e5ebd4bf3dac171f6b1105cb41e5
+7hr9W3IjXcm3UlLY7guLk5,spotify:artist:7hr9W3IjXcm3UlLY7guLk5,Henry Moodie,['singer-songwriter pop'],69,635239,https://i.scdn.co/image/ab6761610000e5eb0b9e89b08baa10172abe380b
+7ltDVBr6mKbRvohxheJ9h1,spotify:artist:7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,"['pop', 'r&b en espanol']",82,8368399,https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49
+7tNO3vJC9zlHy2IJOx34ga,spotify:artist:7tNO3vJC9zlHy2IJOx34ga,BINI,"['opm', 'p-pop', 'pinoy idol pop']",74,3256061,https://i.scdn.co/image/ab6761610000e5eb61a964dfb014475dbe412193
+7tYKF4w9nC0nq9CsPZTHyP,spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,SZA,"['pop', 'r&b', 'rap']",90,24049653,https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65
+7uDdl5V5AETSFY7K3muu22,spotify:artist:7uDdl5V5AETSFY7K3muu22,Arthur Nery,"['cdo indie', 'opm', 'p-pop']",73,5934821,https://i.scdn.co/image/ab6761610000e5eb41ec19055abd29650aea6a55
+7yquVKfxBuNFJbG9cy2R8A,spotify:artist:7yquVKfxBuNFJbG9cy2R8A,Vũ Cát Tường,['v-pop'],56,719973,https://i.scdn.co/image/ab6761610000e5ebe0e7dda97f41aae140ac029d
